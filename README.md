@@ -1,4 +1,4 @@
-### Welcome to HausaNLP! community project <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+### Welcome to HausaNLP! community project <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Kaabo !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Nnọọ!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 
 <!--
@@ -35,13 +35,12 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-This is a repository for Lacuna funded project for development of sentiment corpus for three major Nigerian langauges (Igbo, Hausa and Yoruba) . Jump straight to one of the sections below, or just scroll down to find out more.
+This is a repository for Lacuna funded project for development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba) . Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
   - [The problem](#The-problem)
   - [The solution-what are we doing?](#The-solution-what-are-we-doing)
-  - [How can you get involved?](#how-can-you-get-involved)
   - [papers from this project](#our-papers)
   - [Language Resource Devloped](#hausa-language-resource)
   - [Team Members](#contact-us)
@@ -49,8 +48,15 @@ This is a repository for Lacuna funded project for development of sentiment corp
   - [Glossary](#glossary)
   
 
+  - [How can you get involved?](#how-can-you-get-involved)
 
-## The problem: why Hausa language?
+## The problem: Why Sentiment Corpus for Igbo, Yoruba and Hausa?
+
+Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages.The Igbo, the Hausa and the Yoruba languages are the most widely spoken languages in Nigeria, with over 150 million speakers in Nigeria alone. To the best of our knowledge, there are few resources for sentiment analysis in these languages (mostly translation of the English ones). 
+
+The sentiment lexicon is one of the most crucial resources for most sentiment analysis tasks (Al-Moslmi et al. 2018; Çalı and Balaman 2019). Therefore, the huge amount of data generated in these languages through social media remain untapped. Consequently, in this research, we Igbo languages. seek to develop a corpus, sentiment lexicon, and hate speech lexicon for Hausa, Yoruba and 
+
+
 
 Hausa is an Afroasiatic language related to Arabic, Hebrew, Berber, Amharic, and Somali amongst others. Hausa rivals Swahili language as the most important language on the African continent. Hausa is [ranked as the 27th](https://www.visualcapitalist.com/100-most-spoken-languages/) most spoken language in the world. It is spoken by an estimated 64 million people as a first and second language. Most Hausa speakers live in Nigeria and Southern Republic of Niger. The language is also spoken in other African countries such as Benin Republic, Chad, Burkina Faso, Cameroon, Ghana, Togo, and Sudan.
 
@@ -60,8 +66,21 @@ Hausa is an Afroasiatic language related to Arabic, Hebrew, Berber, Amharic, and
 
 ## The solution - what are we doing?
 
-We are open community of academics, researchers, students, ml-engineeers, and NLP ethusiastics with passion for Hausa natural language processing. We aim to democratize Hausa-NLP by developing Hausa language resourcesd, promotes Hausa natural language processing research, and collaboration among relevant stakeholders.
+We take the first step to break this digital divide by creating open-resouce langauge resources for Sentiment Analysis in the three language supported by Lacuna. We are developing the following resources:
 
+ * Large Scale Twitter Corpus for Igbo, Hausa and Yoruba that can be use for any other downstream NLP task
+ 
+ * The first large scale manually annotated Twitter Sentiment Corpus for Igbo, Hausa and Yoruba
+ 
+ * The first large scale manually annotated sentiment lexicon for Igbo, Hausa and Yoruba.
+ 
+ * The first large scale manually annoatted hate speech lexicon for Igbo, Hausa and Yoruba.
+ 
+# Who we are? 
+
+HausaNLP is an open source community of academics, researchers, students, ml-engineeers, and NLP ethusiastics with passion for Hausa natural language processing.
+
+The team involved in this project are:
 
 
 ## How can you get involved?
