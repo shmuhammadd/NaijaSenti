@@ -82,39 +82,25 @@ The team involved in this project are:
 | Idris  | Ahmadu Bello University|
 
 
-
-## How can you get involved?
-
-If you think you can help in any way possible(and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our contributors guidlines (will soon be available). Join our group in these channels:
-
 <!--
 
 [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](../../issues/1).
 
 -->
-   - Join  our [Slack](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA) group.
-
 <!--
    - Join our [Google group](hausa-nlp@googlegroups.com)
    - To be feature on our website? send us your details via hausanlp@gmail.com and use this as a [template](https://hausanlp.github.io/author/ibrahim-said-ahmad/)
--->
-Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct.
 
 <!--
 [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
 -->
 
-## Hausa-NLP papers and our collaborators papers
+## Papers from this project
 
 
 
-- [Idris Abdulmumin, Bashir Shehu Galadanci, Abubakar Isa (2020). Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation](https://arxiv.org/pdf/2006.02876.pdf).
 
-
-- [ Wilhelmina Nekoto, Vukosi Marivate, Tshinondiwa Matsila, Timi Fasubaa, Tajudeen Kolawole, Taiwo Fagbohungbe, Solomon Oluwole Akinola, Shamsuddee Hassan Muhammad, Salomon Kabongo, Salomey Osei, others (2020). Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://arxiv.org/abs/2010.02353)
-
- - [Idris Abdulmumin, Bashir Shehu Galadanci (2019). hauWE: Hausa Words Embedding for Natural Language Processing.](https://arxiv.org/pdf/1911.10708.pdf)
 
 
 
@@ -124,15 +110,6 @@ Please note that it's very important to us that we maintain a positive and suppo
 http://indigenousblogs.com/ha/
 -->
   
-
-## Weekly Meeting  
-
-   - Add our [Google calender](https://calendar.google.com/calendar/u/0?cid=aGF1c2FubHBAZ21haWwuY29t) to get our weekly meeting notifcation with a link to Join via Google meetup. 
-   - Weekly Google meetup link is [here](https://meet.google.com/pzq-qbpp-sxf)
-   - This is a [meeting notes](https://hausanlp.github.io/meetings-note) for our weekly meeting
-  
-
-
 
 <!-- TODO: Add last video link 
 
@@ -147,7 +124,7 @@ If you want to report a problem or suggest an enhancement we'd love for you to [
 
 ## Thank you
 
-Thank you so much (mun gode!) for visiting the project and we do hope that you'll join us on this amazing journey to support Hausa natural language processing.
+Thank you so much (mun gode!) for visiting the project and we do hope that you'll join us on this amazing journey to support development of Nigerian natural language processing.
 
 ## Glossary
 
