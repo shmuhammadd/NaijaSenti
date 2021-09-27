@@ -1,4 +1,4 @@
-### Hi there,  welcome! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+### Hi there,  welcome to HausaNLP! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#hausa-nlp)
 
-# Hausa-NLP  Open Community
+# Lacuna Funded Project: SentiNaija
 
 
 ![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)
@@ -37,20 +37,16 @@ Here are some ideas to get you started:
 
 Thank you for visiting Hausa-NLP open community project repository.	
 
-Website: [hausanlp.github.io](https://hausanlp.github.io/)   
-Email: hausanlp@gmail.com
 
-
-This document (the README file) is a hub to give you some information about Hausa-NLP project. Jump straight to one of the sections below, or just scroll down to find out more.
+This is a repository for Lacuna funded project for development of sentiment corpus for three major Nigerian langauges (Igbo, Hausa and Yoruba) . Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
   - [The problem](#The-problem)
   - [The solution-what are we doing?](#The-solution-what-are-we-doing)
   - [How can you get involved?](#how-can-you-get-involved)
-  - [Latest Hausa papers by HausaNLP and collaborators](#our-papers)
-  - [Hausa Language Resource](#hausa-language-resource)
-  - [Meeting Notes](#Meeting-Notes )
+  - [papers from this project](#our-papers)
+  - [Language Resource Devloped](#hausa-language-resource)
   - [Contact us](#contact-us)
   - [Glossary](#glossary)
   
