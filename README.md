@@ -58,7 +58,7 @@ Sentiment analysis (SA) is a field of research in Natural Language Processing (N
 
 We take the first step to break this digital divide by creating open-resouce langauge resources for Sentiment Analysis in the three language supported by Lacuna. We are developing the following resources:
 
- * Large Scale Twitter Corpus for Igbo, Hausa and Yoruba that can be use for any other downstream NLP task
+ * The first large Scale Twitter Corpus for Igbo, Hausa and Yoruba that can be use for any other downstream NLP task
  
  * The first large scale manually annotated Twitter Sentiment Corpus for Igbo, Hausa and Yoruba
  
@@ -71,6 +71,16 @@ We take the first step to break this digital divide by creating open-resouce lan
 HausaNLP is an open source community of academics, researchers, students, ml-engineeers, and NLP ethusiastics with passion for Hausa natural language processing.
 
 The team involved in this project are:
+
+| Names | Ranks |
+| --- | --- | 
+| Shamsuddeen Muhammad (PI)| Bayero Universitu, Kano | 
+| Bello Shehu Bello| Bayero Universitu, Kano| |
+| Ibrahim Said Ahmad | Bayero Universitu, Kano |
+| Jade Abbot| Masakhane|
+| Ahmad Shehu | American University of Nigeria |
+| Idris  | Ahmadu Bello University|
+
 
 
 ## How can you get involved?
