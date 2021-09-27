@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-This is a repository for Lacuna funded project for development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba) . Jump straight to one of the sections below, or just scroll down to find out more.
+This is a repository for ![LacunaFund](https://lacunafund.org) funded project for development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba) . Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
@@ -52,19 +52,24 @@ This is a repository for Lacuna funded project for development of sentiment corp
 
 ## The problem: Why Sentiment Corpus for Igbo, Yoruba and Hausa?
 
-Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages.The Igbo, the Hausa and the Yoruba languages are the most widely spoken languages in Nigeria, with over 150 million speakers in Nigeria alone. To the best of our knowledge, there are few resources for sentiment analysis in these languages (mostly translation of the English ones). 
+Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. The Igbo, the Hausa and the Yoruba languages are the most widely spoken languages in Nigeria, with over 150 million speakers in Nigeria alone. To the best of our knowledge, there are few resources for sentiment analysis in these languages (mostly translation of the English ones). 
 
 ## The solution - what are we doing?
 
-We take the first step to break this digital divide by creating open-resouce langauge resources for Sentiment Analysis in the three language supported by Lacuna. We are developing the following resources:
+We take the first step to break this digital divide by creating open-resouce langauge resources for Sentiment Analysis in the three language supported by ![LacunaFund](https://lacunafund.org). We are developing the following resources:
 
  * The first large Scale Twitter Corpus for Igbo, Hausa and Yoruba that can be use for any other downstream NLP task
  
  * The first large scale manually annotated Twitter Sentiment Corpus for Igbo, Hausa and Yoruba
  
  * The first large scale manually annotated sentiment lexicon for Igbo, Hausa and Yoruba.
- 
+
  * The first large scale manually annoatted hate speech lexicon for Igbo, Hausa and Yoruba.
+ 
+  * The first large scale semi-automatic sentiment lexicon for Igbo, Hausa and Yoruba.
+  
+  * The first large scale semi-automatic emotion lexicon for Igbo, Hausa and Yoruba.
+
  
 # Who we are? 
 
@@ -72,9 +77,9 @@ HausaNLP is an open source community of academics, researchers, students, ml-eng
 
 The team involved in this project are:
 
-| Names | Ranks |
+| Names | Institutions |
 | --- | --- | 
-| Shamsuddeen Muhammad (PI)| Bayero Universitu, Kano | 
+| Shamsuddeen Muhammad | Bayero Universitu, Kano | 
 | Bello Shehu Bello| Bayero Universitu, Kano| |
 | Ibrahim Said Ahmad | Bayero Universitu, Kano |
 | Jade Abbot| Masakhane|
@@ -98,14 +103,7 @@ The team involved in this project are:
 
 ## Papers from this project
 
-
-
-
-
-
-
-## Hausa Language Resource
-
+ - Ongoing work 
 <!-- 
 http://indigenousblogs.com/ha/
 -->
@@ -124,7 +122,7 @@ If you want to report a problem or suggest an enhancement we'd love for you to [
 
 ## Thank you
 
-Thank you so much (mun gode!) for visiting the project and we do hope that you'll join us on this amazing journey to support development of Nigerian natural language processing.
+Thank you so much (mun gode!) for visiting the project and we do hope that you'll join us on this amazing journey to support development of resources for Nigerian natural language processing.
 
 ## Glossary
 
