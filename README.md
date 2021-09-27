@@ -54,16 +54,6 @@ This is a repository for Lacuna funded project for development of sentiment corp
 
 Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages.The Igbo, the Hausa and the Yoruba languages are the most widely spoken languages in Nigeria, with over 150 million speakers in Nigeria alone. To the best of our knowledge, there are few resources for sentiment analysis in these languages (mostly translation of the English ones). 
 
-The sentiment lexicon is one of the most crucial resources for most sentiment analysis tasks (Al-Moslmi et al. 2018; Çalı and Balaman 2019). Therefore, the huge amount of data generated in these languages through social media remain untapped. Consequently, in this research, we Igbo languages. seek to develop a corpus, sentiment lexicon, and hate speech lexicon for Hausa, Yoruba and 
-
-
-
-Hausa is an Afroasiatic language related to Arabic, Hebrew, Berber, Amharic, and Somali amongst others. Hausa rivals Swahili language as the most important language on the African continent. Hausa is [ranked as the 27th](https://www.visualcapitalist.com/100-most-spoken-languages/) most spoken language in the world. It is spoken by an estimated 64 million people as a first and second language. Most Hausa speakers live in Nigeria and Southern Republic of Niger. The language is also spoken in other African countries such as Benin Republic, Chad, Burkina Faso, Cameroon, Ghana, Togo, and Sudan.
-
- Despite Hausa being the second most spoken language in Africa, there are no language resources for Hausa natural language processing. We take the first step to break this digital divide by creating open  resouce for Hausa language.
- 
-
-
 ## The solution - what are we doing?
 
 We take the first step to break this digital divide by creating open-resouce langauge resources for Sentiment Analysis in the three language supported by Lacuna. We are developing the following resources:
