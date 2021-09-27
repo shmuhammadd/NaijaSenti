@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-This is a repository for ![LacunaFund](https://lacunafund.org) funded project for development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba) . Jump straight to one of the sections below, or just scroll down to find out more.
+This is a repository for [LacunaFund](https://lacunafund.org) funded project for development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba) . Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
   - [The problem](#The-problem)
   - [The solution-what are we doing?](#The-solution-what-are-we-doing)
-  - [papers from this project](#our-papers)
+  - [Who we are?](#Who-we-are?)
+  - [papers from this project](#papers-from-this-project)
   - [Language Resource Devloped](#hausa-language-resource)
-  - [Team Members](#contact-us)
   - [Contact us](#contact-us)
   - [Glossary](#glossary)
   
@@ -56,7 +56,7 @@ Sentiment analysis (SA) is a field of research in Natural Language Processing (N
 
 ## The solution - what are we doing?
 
-We take the first step to break this digital divide by creating open-resouce langauge resources for Sentiment Analysis in the three language supported by ![LacunaFund](https://lacunafund.org). We are developing the following resources:
+We take the first step to break this digital divide by creating open-resouce langauge resources for Sentiment Analysis in the three language supported by [LacunaFund](https://lacunafund.org). We are developing the following resources:
 
  * The first large Scale Twitter Corpus for Igbo, Hausa and Yoruba that can be use for any other downstream NLP task
  
