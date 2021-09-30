@@ -42,12 +42,11 @@ This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.
   - [The problem](#The-problem)
   - [Language Resource Devloped](#Language-Resource-Devloped)
   - [papers from this project](#papers-from-this-project)
-  - [The Team?](#The-Team)
+  - [The Team](#The-Team)
   - [Contact us](#contact-us)
   - [Glossary](#glossary)
   
 
-  - [How can you get involved?](#how-can-you-get-involved)
 
 ## The problem
 
@@ -109,7 +108,6 @@ The team involved in this project are:
 -->
 
 
- - Ongoing work 
 <!-- 
 http://indigenousblogs.com/ha/
 -->
