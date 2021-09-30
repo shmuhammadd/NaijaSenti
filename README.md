@@ -42,7 +42,7 @@ This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.
   - [The problem](#The-problem)
   - [Language Resource Devloped](#Language-Resource-Devloped)
   - [papers from this project](#papers-from-this-project)
-  - [Who we are?](#Who-we-are?)
+  - [The Team?](#The-Team)
   - [Contact us](#contact-us)
   - [Glossary](#glossary)
   
@@ -78,7 +78,7 @@ We have not yet published any paper. We are currently working on data curation a
   
 
  
-# Who we are? 
+# The Team
 
 HausaNLP is an open source community of academics, researchers, students, ml-engineeers, and NLP ethusiastics with passion for Hausa natural language processing.
 
