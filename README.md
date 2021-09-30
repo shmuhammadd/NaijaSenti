@@ -1,4 +1,4 @@
-### Welcome to SentiNaija Lacuna Funded Project <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Kaabo !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Nnọọ!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+### Welcome to SentiNaija: A Lacuna Funded Project <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Kaabo !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Nnọọ!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 
 <!--
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-This is a repository for SentiNaija, a [LacunaFund](https://lacunafund.org) funded project for development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba) . Jump straight to one of the sections below, or just scroll down to find out more.
+This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.org) funded project for development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba). Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
@@ -52,12 +52,11 @@ This is a repository for SentiNaija, a [LacunaFund](https://lacunafund.org) fund
 
 ## The problem: Why Sentiment Corpus for Igbo, Yoruba and Hausa?
 
-Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. The Igbo, the Hausa and the Yoruba languages are the most widely spoken languages in Nigeria, with over 150 million speakers in Nigeria alone. 
-
+Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, no any existing publicly available sentiment coprus in these languages. 
 
 ## The solution - what are we doing?
 
-We take the first step to break this digital divide by creating open-resource language resources for Sentiment Analysis and emotion Analyis in the three language supported by [LacunaFund](https://lacunafund.org). We are developing the following resources:
+We take the first step to break this digital divide by creating open-resource  Sentiment corpus in the three languagessupported by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
 
  * The first large Scale Twitter Corpus for Igbo, Hausa and Yoruba that can be use for any other downstream NLP task
  
@@ -65,13 +64,13 @@ We take the first step to break this digital divide by creating open-resource la
  
  * The first large scale manually annotated sentiment lexicon for Igbo, Hausa and Yoruba (HausaSentiLex, IgboSentiLex, YorubaSentiLex).
 
- * The first large scale manually annotated hate speech lexicon for Igbo, Hausa and Yoruba(HausaHateLex, YorubaHateLex, IgboHateLex)
+ * The first large scale manually annotated hate speech lexicon for Igbo, Hausa and Yoruba (HausaHateLex, YorubaHateLex, IgboHateLex)
  
   * The first large scale semi-automatic sentiment lexicon for Igbo, Hausa and Yoruba.
   
   * The first large scale semi-automatic emotion lexicon for Igbo, Hausa and Yoruba.
   
-  * The first large scale manually annoatted code-mixed tweets for Igbo, Hausa and Yoruba.
+  * The first large scale manually annotated code-mixed tweets for Igbo, Hausa and Yoruba.
 
  
 # Who we are? 
@@ -128,6 +127,12 @@ If you want to report a problem or suggest an enhancement we'd love for you to [
 Thank you so much (mun gode!) for visiting the project and we do hope that you'll join us on this amazing journey to support development of resources for Nigerian natural language processing.
 
 ## Glossary
+
+* Lacuna Fund : Lacuna Fund is the world’s first collaborative effort to provide data scientists, researchers, and social entrepreneurs in low- and middle-income contexts globally with the resources they need to produce labeled datasets that address urgent problems in their communities.
+
+* **Hausa**:  Hausa is a Chadic language spoken by the Hausa people, mainly within the territories of Niger and the northern half of Nigeria, and with significant minorities in Chad, Ghana, and Cameroon.
+
+* **Hausa**:  Hausa is a Chadic language spoken by the Hausa people, mainly within the territories of Niger and the northern half of Nigeria, and with significant minorities in Chad, Ghana, and Cameroon.
 
 * **Hausa**:  Hausa is a Chadic language spoken by the Hausa people, mainly within the territories of Niger and the northern half of Nigeria, and with significant minorities in Chad, Ghana, and Cameroon.
 * **README file**: a document that introduces an open project to the public and any potential contributors
