@@ -40,10 +40,9 @@ This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.
 ## Table of Contents
 
   - [The problem](#The-problem)
-  - [The solution-what are we doing-?](#The-solution-what-are-we-doing)
-  - [Who we are?](#Who-we-are?)
+  - [Language Resource Devloped](#Language-Resource-Devloped)
   - [papers from this project](#papers-from-this-project)
-  - [Language Resource Devloped](#hausa-language-resource)
+  - [Who we are?](#Who-we-are?)
   - [Contact us](#contact-us)
   - [Glossary](#glossary)
   
@@ -54,7 +53,7 @@ This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.
 
 Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, no any existing publicly available sentiment coprus in these languages. 
 
-## The solution - what are we doing?
+## Language Resource Devloped
 
 We take the first step to break this digital divide by creating open-resource  Sentiment corpus in the three languagessupported by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
 
@@ -71,6 +70,12 @@ We take the first step to break this digital divide by creating open-resource  S
   * The first large scale semi-automatic emotion lexicon for Igbo, Hausa and Yoruba.
   
   * The first large scale manually annotated code-mixed tweets for Igbo, Hausa and Yoruba.
+  * Semi-automatic development of stop-words in Hausa, Ibo and Yoruba language
+
+## Papers from this project
+
+We have not yet published any paper. We are currently working on data curation and annotation
+  
 
  
 # Who we are? 
@@ -103,7 +108,6 @@ The team involved in this project are:
 
 -->
 
-## Papers from this project
 
  - Ongoing work 
 <!-- 
@@ -130,11 +134,11 @@ Thank you so much (mun gode!) for visiting the project and we do hope that you'l
 
 * Lacuna Fund : Lacuna Fund is the world’s first collaborative effort to provide data scientists, researchers, and social entrepreneurs in low- and middle-income contexts globally with the resources they need to produce labeled datasets that address urgent problems in their communities.
 
-* **Hausa**:  Hausa is a Chadic language spoken by the Hausa people, mainly within the territories of Niger and the northern half of Nigeria, and with significant minorities in Chad, Ghana, and Cameroon.
+* **Yoruba**: Yoruba is a language spoken in West Africa, most prominently Southwestern Nigeria. It is spoken by the ethnic Yoruba people.
 
 * **Hausa**:  Hausa is a Chadic language spoken by the Hausa people, mainly within the territories of Niger and the northern half of Nigeria, and with significant minorities in Chad, Ghana, and Cameroon.
 
-* **Hausa**:  Hausa is a Chadic language spoken by the Hausa people, mainly within the territories of Niger and the northern half of Nigeria, and with significant minorities in Chad, Ghana, and Cameroon.
+* **Igbo**:  Igbo is the principal native language of the Igbo people, an ethnic group from eastern Nigeria..
 * **README file**: a document that introduces an open project to the public and any potential contributors
 * **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content
 * **Roadmap**: a document outlining the schedule of work to be done on a project
