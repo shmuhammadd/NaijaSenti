@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.org) funded project for development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba). Jump straight to one of the sections below, or just scroll down to find out more.
+This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.org) funded project for development of sentiments corpus for three major Nigerian languages (Igbo, Hausa and Yoruba). Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
   - [The problem](#The-problem)
-  - [Language Resource Devloped](#Language-Resource-Devloped)
+  - [Language Resource Developed](#Language-Resource-Devloped)
   - [papers from this project](#papers-from-this-project)
   - [The Team](#The-Team)
   - [Contact us](#contact-us)
@@ -52,19 +52,19 @@ This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.
 
 Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, no any existing publicly available sentiment coprus in these languages. 
 
-## Language Resource Devloped
+## Language Resource Developed
 
-We take the first step to break this digital divide by creating open-resource  Sentiment corpus in the three languagessupported by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
+We take the first step to break this digital divide by creating open-source sentiment corpus in the three languages supported by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
 
- * The first large Scale Twitter Corpus for Igbo, Hausa and Yoruba that can be use for any other downstream NLP task
+ * The first large Scale Twitter Corpus for Igbo, Hausa and Yoruba. This corpus can be use for any other Natural Language Processing downstream tasks.
  
- * The first large scale manually annotated Twitter Sentiment Corpus for Igbo, Hausa and Yoruba (SentiHausa,SentiYoruba,SentiIgbo ).
+ * The first large scale manually annotated Twitter Sentiment Corpus for Igbo (SentiIgbo), Hausa(SentiHausa) and Yoruba (SentiYoruba).
  
- * The first large scale manually annotated sentiment lexicon for Igbo, Hausa and Yoruba (HausaSentiLex, IgboSentiLex, YorubaSentiLex).
+ * The first large scale manually annotated sentiment lexicon for Igbo (IgboSentiLex), Hausa (HausaSentiLex) and Yoruba(YorubaSentiLex).
 
- * The first large scale manually annotated hate speech lexicon for Igbo, Hausa and Yoruba (HausaHateLex, YorubaHateLex, IgboHateLex)
+ * The first large scale manually annotated hate speech lexicon for Igbo(IgboHateLex), Hausa (HausaHateLex) and Yoruba(YorubaHateLex)
  
-  * The first large scale semi-automatic sentiment lexicon for Igbo, Hausa and Yoruba.
+  * The first large scale semi-automatic devloped sentiment lexicon for Igbo, Hausa and Yoruba.  
   
   * The first large scale semi-automatic emotion lexicon for Igbo, Hausa and Yoruba.
   
