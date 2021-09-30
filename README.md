@@ -40,7 +40,7 @@ This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.
 ## Table of Contents
 
   - [The problem](#The-problem)
-  - [The solution-what are we doing?](#The-solution-what-are-we-doing)
+  - [The solution-what are we doing-?](#The-solution-what-are-we-doing)
   - [Who we are?](#Who-we-are?)
   - [papers from this project](#papers-from-this-project)
   - [Language Resource Devloped](#hausa-language-resource)
