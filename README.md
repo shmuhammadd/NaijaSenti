@@ -139,9 +139,8 @@ Thank you so much (mun gode!) for visiting the project and we do hope that you'l
 * **Hausa**:  Hausa is a Chadic language spoken by the Hausa people, mainly within the territories of Niger and the northern half of Nigeria, and with significant minorities in Chad, Ghana, and Cameroon.
 
 * **Igbo**:  Igbo is the principal native language of the Igbo people, an ethnic group from eastern Nigeria..
-* **README file**: a document that introduces an open project to the public and any potential contributors
 * **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content
-* **Roadmap**: a document outlining the schedule of work to be done on a project
+
 * **Milestone**: an event or state marking a specific stage in development on the project
 * **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects
 
