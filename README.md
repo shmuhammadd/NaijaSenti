@@ -50,7 +50,7 @@ This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.
 
   - [How can you get involved?](#how-can-you-get-involved)
 
-## The problem: Why Sentiment Corpus for Igbo, Yoruba and Hausa?
+## The problem
 
 Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, no any existing publicly available sentiment coprus in these languages. 
 
