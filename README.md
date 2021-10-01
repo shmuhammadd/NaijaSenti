@@ -1,4 +1,4 @@
-###  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Kaabo !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Nnọọ!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+###  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Ssannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Kaabo !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Nnọọ!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 
 <!--
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.org) funded project for development of sentiments corpus for three major Nigerian languages (Igbo, Hausa and Yoruba). Jump straight to one of the sections below, or just scroll down to find out more.
+This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.org) funded project for the development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba). Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
@@ -54,16 +54,23 @@ Sentiment analysis (SA) is a field of research in Natural Language Processing (N
 
 ## Language Resource Developed
 
-We take the first step to break this digital divide by creating open-source sentiment corpus in the three languages supported by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
+We take the first step to break this digital divide by creating an open-source sentiment corpus in Igbo, Hausa,and Yoruba suppiorted by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
 
- * The first large Scale Twitter Corpus for Igbo, Hausa and Yoruba. This corpus can be use for any other Natural Language Processing downstream tasks.
+ * The first [large Scale Twitter Corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for Igbo, Hausa and Yoruba. This corpus can be use for any other Natural Language Processing downstream tasks.
  
- * The first large scale manually annotated Twitter Sentiment Corpus for Igbo (SentiIgbo), Hausa(SentiHausa) and Yoruba (SentiYoruba).
+ * The first large scale manually annotated Twitter Sentiment Corpus for Igbo (SentiIgbo), Hausa(SentiHausa) and Yoruba (SentiYoruba). 
+  
+  ** **Status**: ![80%](https://progress-bar.dev/50)
+
+
  
  * The first large scale manually annotated sentiment lexicon for Igbo (IgboSentiLex), Hausa (HausaSentiLex) and Yoruba(YorubaSentiLex).
 
  * The first large scale manually annotated hate speech lexicon for Igbo(IgboHateLex), Hausa (HausaHateLex) and Yoruba(YorubaHateLex)
  
+   ** **Status**: ![50%](https://progress-bar.dev/50)
+
+
   * The first large scale semi-automatic devloped sentiment lexicon for Igbo, Hausa and Yoruba.  
   
   * The first large scale semi-automatic emotion lexicon for Igbo, Hausa and Yoruba.
