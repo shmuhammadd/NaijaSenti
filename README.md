@@ -97,7 +97,7 @@ The team involved in this project are:
 | [Bello Shehu Bello](https://www.hausanlp.org/author/bello-shehu-bello/)| Bayero Universitu, Kano| |
 | [Ibrahim Said Ahmad](https://www.hausanlp.org/author/ibrahim-said-ahmad/) | Bayero Universitu, Kano |
 | [Jade Abbot](https://www.jabbott.io)| Masakhane|
-| [Ahmad Shehu(https://www.hausanlp.org/author/ahamdu-shehu/) | American University of Nigeria |
+| [Ahmad Shehu](https://www.hausanlp.org/author/ahamdu-shehu/) | American University of Nigeria |
 | [Idris Abdulmumin](https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/) | Ahmadu Bello University|
 
 
