@@ -50,12 +50,12 @@ This is a repository for SentiNaija project, a [Lacuna Fund](https://lacunafund.
 
 ## The problem
 
-Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, no any existing **publicly available** sentiment corpus in Igbo, Hausa, and Yoruba.
+Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, no any existing **publicly available** sentiment corpus in Igbo, Hausa, and Yoruba languages.
 
 
 ## Language Resources Developed
 
-We take the first step to break this digital divide by creating an open-source sentiment corpus in three major Nigerian languages: Igbo, Hausa,and Yoruba supported by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
+We take the first step to break this digital divide by creating an open-source sentiment corpus in three major Nigerian languages: Igbo, Hausa, and Yoruba supported by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
 
  * The first [large Scale Twitter Corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for Igbo, Hausa and Yoruba. This corpus can be use for any other Natural Language Processing downstream tasks. **Status**: ![100%](https://progress-bar.dev/80)
  
@@ -78,15 +78,16 @@ We take the first step to break this digital divide by creating an open-source s
   * The first Semi-automatic stop-words in Hausa, Ibo and Yoruba language. **Status**: ![40%](https://progress-bar.dev/40)
 
 
-## Papers from this project
+## Papers from this project 
 
-We have not yet published any paper. We are currently working on data curation and annotation
+
+We have not yet published any paper. We are currently working on data curation and annotation.
   
 
  
 # The Team
 
-HausaNLP is an open source community of academics, researchers, students, ml-engineeers, and NLP ethusiastics with passion for Hausa natural language processing.
+This is a joint collaboration between HausaNLP and Masakhane community. HausaNLP is an open source community of academics, researchers, students, ml-engineeers, and NLP ethusiastics with passion for Hausa natural language processing. Masaakhane NLP is a grassroot African NLP community aim to democratize NLP in African continents.
 
 The team involved in this project are:
 
