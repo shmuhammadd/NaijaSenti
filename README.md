@@ -57,10 +57,12 @@ Sentiment analysis (SA) is a field of research in Natural Language Processing (N
 We take the first step to break this digital divide by creating an open-source sentiment corpus in Igbo, Hausa,and Yoruba suppiorted by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
 
  * The first [large Scale Twitter Corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for Igbo, Hausa and Yoruba. This corpus can be use for any other Natural Language Processing downstream tasks.
+  
+    * **Status**: ![80%](https://progress-bar.dev/80)
  
  * The first large scale manually annotated Twitter Sentiment Corpus for Igbo (SentiIgbo), Hausa(SentiHausa) and Yoruba (SentiYoruba). 
   
-  ** **Status**: ![80%](https://progress-bar.dev/50)
+    * **Status**: ![80%](https://progress-bar.dev/80)
 
 
  
