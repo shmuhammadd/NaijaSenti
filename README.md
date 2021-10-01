@@ -1,4 +1,4 @@
-###  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Ssannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Kaabo !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Nnọọ!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+###  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Kaabo !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Nnọọ!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 
 <!--
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.org) funded project for the development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba). Jump straight to one of the sections below, or just scroll down to find out more.
+This is a repository for SentiNaija project, a [Lacuna Fund](https://lacunafund.org) funded project for the development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba). Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
@@ -50,11 +50,12 @@ This is a repository for SentiNaija Project, a [Lacuna Fund](https://lacunafund.
 
 ## The problem
 
-Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, no any existing publicly available sentiment coprus in these languages. 
+Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, no any existing publicly available sentiment corpus in Igbo, Hausa, and Yoruba.
 
-## Language Resource Developed
 
-We take the first step to break this digital divide by creating an open-source sentiment corpus in Igbo, Hausa,and Yoruba suppiorted by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
+## Language Resources Developed
+
+We take the first step to break this digital divide by creating an open-source sentiment corpus in three major Nigerian languages: Igbo, Hausa,and Yoruba supported by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
 
  * The first [large Scale Twitter Corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for Igbo, Hausa and Yoruba. This corpus can be use for any other Natural Language Processing downstream tasks. **Status**: ![100%](https://progress-bar.dev/80)
  
@@ -74,7 +75,7 @@ We take the first step to break this digital divide by creating an open-source s
   
   * The first large scale manually annotated code-mixed tweets for Igbo, Hausa and Yoruba. **Status**: ![0%](https://progress-bar.dev/0)
 
-  * Semi-automatic development of stop-words in Hausa, Ibo and Yoruba language. **Status**: ![40%](https://progress-bar.dev/40)
+  * The first Semi-automatic stop-words in Hausa, Ibo and Yoruba language. **Status**: ![40%](https://progress-bar.dev/40)
 
 
 ## Papers from this project
