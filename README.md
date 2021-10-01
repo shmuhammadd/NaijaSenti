@@ -56,41 +56,25 @@ Sentiment analysis (SA) is a field of research in Natural Language Processing (N
 
 We take the first step to break this digital divide by creating an open-source sentiment corpus in Igbo, Hausa,and Yoruba suppiorted by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
 
- * The first [large Scale Twitter Corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for Igbo, Hausa and Yoruba. This corpus can be use for any other Natural Language Processing downstream tasks.
-  
-    * **Status**: ![100%](https://progress-bar.dev/80)
+ * The first [large Scale Twitter Corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for Igbo, Hausa and Yoruba. This corpus can be use for any other Natural Language Processing downstream tasks. **Status**: ![100%](https://progress-bar.dev/80)
  
- * The first large scale manually annotated Twitter Sentiment Corpus for Igbo (SentiIgbo), Hausa(SentiHausa) and Yoruba (SentiYoruba). 
-  
-    * **Status**: ![60%](https://progress-bar.dev/60)
+ * The first large scale manually annotated Twitter Sentiment Corpus for Igbo (SentiIgbo), Hausa(SentiHausa) and Yoruba (SentiYoruba). **Status**: ![60%](https://progress-bar.dev/60)
 
 
- * The first large scale manually annotated sentiment lexicon for Igbo (IgboSentiLex), Hausa (HausaSentiLex) and Yoruba(YorubaSentiLex).
- 
-     * **Status**: ![50%](https://progress-bar.dev/60)
+ * The first large scale manually annotated sentiment lexicon for Igbo (IgboSentiLex), Hausa (HausaSentiLex) and Yoruba(YorubaSentiLex). **Status**: ![50%](https://progress-bar.dev/60)
 
 
- * The first large scale manually annotated hate speech lexicon for Igbo(IgboHateLex), Hausa (HausaHateLex) and Yoruba(YorubaHateLex)
- 
-   ** **Status**: ![50%](https://progress-bar.dev/50)
+ * The first large scale manually annotated hate speech lexicon for Igbo(IgboHateLex), Hausa (HausaHateLex) and Yoruba(YorubaHateLex). **Status**: ![50%](https://progress-bar.dev/50)
 
-  * The first large scale semi-automatic devloped sentiment lexicon for Igbo, Hausa and Yoruba.  
-  
-    * **Status**: ![50%](https://progress-bar.dev/50)
+  * The first large scale semi-automatic devloped sentiment lexicon for Igbo, Hausa and Yoruba. **Status**: ![50%](https://progress-bar.dev/50)
 
   
-  * The first large scale semi-automatic emotion lexicon for Igbo, Hausa and Yoruba.
-  
-    * **Status**: ![30%](https://progress-bar.dev/30)
+  * The first large scale semi-automatic emotion lexicon for Igbo, Hausa and Yoruba. **Status**: ![30%](https://progress-bar.dev/30)
 
   
-  * The first large scale manually annotated code-mixed tweets for Igbo, Hausa and Yoruba.
-  
-    * **Status**: ![0%](https://progress-bar.dev/0)
+  * The first large scale manually annotated code-mixed tweets for Igbo, Hausa and Yoruba. **Status**: ![0%](https://progress-bar.dev/0)
 
-  * Semi-automatic development of stop-words in Hausa, Ibo and Yoruba language
-  
-    * **Status**: ![40%](https://progress-bar.dev/40)
+  * Semi-automatic development of stop-words in Hausa, Ibo and Yoruba language. **Status**: ![40%](https://progress-bar.dev/40)
 
 
 ## Papers from this project
