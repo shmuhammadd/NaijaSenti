@@ -93,12 +93,12 @@ The team involved in this project are:
 
 | Names | Institutions |
 | --- | --- | 
-| Shamsuddeen Muhammad | Bayero Universitu, Kano | 
-| Bello Shehu Bello| Bayero Universitu, Kano| |
-| Ibrahim Said Ahmad | Bayero Universitu, Kano |
-| Jade Abbot| Masakhane|
-| Ahmad Shehu | American University of Nigeria |
-| Idris  | Ahmadu Bello University|
+| [Shamsuddeen Muhammad](https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/) | Bayero Universitu, Kano | 
+| [Bello Shehu Bello](https://www.hausanlp.org/author/bello-shehu-bello/)| Bayero Universitu, Kano| |
+| [Ibrahim Said Ahmad](https://www.hausanlp.org/author/ibrahim-said-ahmad/) | Bayero Universitu, Kano |
+| [Jade Abbot](https://www.jabbott.io)| Masakhane|
+| [Ahmad Shehu(https://www.hausanlp.org/author/ahamdu-shehu/) | American University of Nigeria |
+| [Idris Abdulmumin](https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/) | Ahmadu Bello University|
 
 
 <!--
