@@ -86,11 +86,11 @@ We take the first step to break this digital divide by creating an open-source s
   
   * The first large scale manually annotated code-mixed tweets for Igbo, Hausa and Yoruba.
   
-    * **Status**: ![0%](https://progress-bar.dev/30)
+    * **Status**: ![0%](https://progress-bar.dev/0)
 
   * Semi-automatic development of stop-words in Hausa, Ibo and Yoruba language
   
-    * **Status**: ![40%](https://progress-bar.dev/30)
+    * **Status**: ![40%](https://progress-bar.dev/40)
 
 
 ## Papers from this project
