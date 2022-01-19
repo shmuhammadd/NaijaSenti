@@ -36,7 +36,7 @@ This is a repository for SentiNaija project, a [Lacuna Fund](https://lacunafund.
 
 ## The problem
 
-Sentiment analysis (SA) is a field of research in natural language processing (NLP) that deals with the identification and classification of people’s opinions, sentiments, and emotions in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, there is no existing **publicly available**  sentiment corpus in Igbo, Hausa, and Yoruba languages.
+Sentiment analysis (SA) deals with the identification and classification of people’s opinions, sentiments, and emotions in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, there is no existing **publicly available**  sentiment corpus in Igbo, Hausa, and Yoruba languages.
 
 
 ## Language Resources Developed
