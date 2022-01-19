@@ -46,6 +46,7 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 We create the following pen-source sentiment corpus in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin and Yoruba) supported by [Lacuna Fund](https://lacunafund.org):
 
 
+
                                     | Langugaes      | #positive| #Negative| #Neutral |#Code-mix |#mono-ling. | 
                                     |----------------|----------|----------|----------|----------|------------|              
                                     | Hausa          |          |          |          |          |            |
