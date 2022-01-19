@@ -64,6 +64,8 @@ We selected the tweets classified as positive and negative above and manually t
 | --------- | -------- |  -------- | -------- |  
 | Hausa  | Content Cell  |  Content Cell  | Content Cell  |  
 | Igbo  | Content Cell  |  Content Cell  | Content Cell  | 
+| Yoruba  | Content Cell  |  Content Cell  | Content Cell  | 
+
 
  * The first large scale manually annotated Twitter Sentiment Corpus both code-mix and monolingual) for the four languaages. **Status**: ![95%](https://progress-bar.dev/95)
 
