@@ -6,7 +6,9 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#hausa-nlp)
 
-# NaijaSenti : Lacuna Funded Project for Developement of Sentiment Corpus
+# NaijaSenti 1.0.0
+
+###  NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the development of open-source sentiment corpora for four major Nigerian languages.
 
 
 ![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)
@@ -41,11 +43,61 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 
 ## Language Resources Developed
 
-We are creating an open-source sentiment corpus in four major Nigerian languages: Hausa, Igbo, Nigerian-Pidgin and Yoruba, supported by [Lacuna Fund](https://lacunafund.org). Specifically, we are developing the following resources:
 
- * The first [large Scale Unannotated Twitter Corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for the four languages. This corpus can be use for any other Natural Language Processing downstream tasks. **Status**: ![100%](https://progress-bar.dev/100)
+### Manually Annotated Twitter Sentiment corpus
+
+We manually annotated the Twitter sentiment corpus in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin, and Yoruba). We realese the dataset with the following metadata for each language: the number of positive, negative, and neutral classes. We also manually annotated the dataset and classified the tweets if they were code-mixed (e.g., a mix of Hausa and English or Hausa and Yoruba) or monolingual.
+
+| Languages |      #positive |      #negative| #neutral |  #code-mixedd  | #mono-lingual | 
+| --------- | -------- |  -------- | -------- |  ---------- | ---------- |
+| Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
+| Igbo  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
+| Pidgin  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
+| Yoruba  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
+
+
+### Manually Annotated Sentiment Lexicon
+
+We selected the tweets classified as positive and negative above and manually tagged positive, negative and hate words in the tweets. 
+
+| Languages | #positive | #negative| #hate |  
+| --------- | -------- |  -------- | -------- |  
+| Hausa  | Content Cell  |  Content Cell  | Content Cell  |  
+| Igbo  | Content Cell  |  Content Cell  | Content Cell  | 
+| Yoruba  | Content Cell  |  Content Cell  | Content Cell  | 
+
+### Semi-automatically Translated emotion lexicon
+
+We translated [NRC Word-Emotion](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) in to three languages (Hausa, Igbo, and Yoruba). We used Google Translate API for translation. The transslation was verified and corrected by expert translators. Each word is associated with entries from eight basic emotions (anger, anticipation, disgust, fear, joy, sadness, surprise, trust) 
+
+
+| Languages | #anger | #anticipation| #disgust |  Languages | #anger | #anticipation| #disgust |   #disgust |  
+| --------- | -------- |  -------- | -------- |   --------- | -------- |  -------- | -------- |   -------- | 
+| Hausa  | Content Cell  |  Content Cell  | Content Cell  |   Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | 
+| Igbo  | Content Cell  |  Content Cell  | Content Cell  |  Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | 
+| Yoruba  | Content Cell  |  Content Cell  | Content Cell  |  Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | 
+
+### Semi-automatically Translated sentiment lexicon
+
+We translated [NRC Word-Emotion](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) in to three languages (Hausa, Igbo, and Yoruba). We used Google Translate API for translation. The transslation was verified and corrected by expert translators. 
+
+
+| Languages | #positive | #negative| 
+| --------- | -------- |  -------- | 
+| Hausa  | Content Cell  |  Content Cell  | 
+| Igbo  | Content Cell  |  Content Cell  |
+| Yoruba  | Content Cell  |  Content Cell  | 
+
+
+### Large Scale Unlabled Twitter Sentiment Corpus
+
+We released the first [large-scale uannannotated Twitter corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for the four languages. This corpus can be use for any other Natural Language Processing downstream tasks. **Status**: ![100%](https://progress-bar.dev/100)
  
- * The first large scale manually annotated Twitter Sentiment Corpus (code-mix and monolingual) for the four languaages. **Status**: ![95%](https://progress-bar.dev/95)
+| Languages | #positive | #negative| #negative| 
+| --------- | -------- |  -------- | -------- |
+| Hausa  | Content Cell  |  Content Cell  | -------- |
+| Igbo  | Content Cell  |  Content Cell  |-------- |
+| Yoruba  | Content Cell  |  Content Cell  | -------- |
 
 
  * Manually annotated sentiment lexicon for Igbo Hausa, Igbo and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
