@@ -48,8 +48,7 @@ We are creating an open-source sentiment corpus in four major Nigerian languages
  * The first large scale manually annotated Twitter Sentiment Corpus (code-mix and monolingual) for the four languaages. **Status**: ![95%](https://progress-bar.dev/95)
 
 
- * The first large scale manually annotated sentiment lexicon for Igbo Hausa, Igbo and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
-
+ * Manually annotated sentiment lexicon for Igbo Hausa, Igbo and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
 
  * Manually annotated hate speech lexicon for Igbo, Hausa and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
 
