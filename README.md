@@ -64,7 +64,7 @@ We have not yet published any paper. We are currently working on data curation a
   
 
  
-# The Team
+## The Team
 
 
 This is a joint collaboration between [HausaNLP](https://www.hausanlp.org) and the [MasakhaneNLP](https://www.masakhane.io) community. HausaNLP is an open source community of academics, researchers, students, ML-engineers, and NLP enthusiasts with a passion for Hausa natural language processing. Masaakhane NLP is a grassroot African NLP community aiming to democratise NLP on the African continent.
