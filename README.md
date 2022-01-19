@@ -8,7 +8,7 @@
 
 # NaijaSenti 1.0.0
 
-##  NaijaSenti is a lacuna-funded project for the development of open-source sentiment corpuses for four major Nigerian languages.
+##  NaijaSenti is a lacuna-funded project for the development of open-source sentiment corpora for four major Nigerian languages.
 
 
 ![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)
