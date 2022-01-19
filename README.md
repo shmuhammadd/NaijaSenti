@@ -44,17 +44,17 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 ## Language Resources Developed
 
 
-- #### [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+1.  #### [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
-- #### [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)  
+2.  #### [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)  
 
-- #### [Semi-automatically Translated emotion lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+3.  #### [Semi-automatically Translated emotion lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
-- #### [Semi-automatically Translated sentiment lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+4.  #### [Semi-automatically Translated sentiment lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
-- #### [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+5.  #### [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
-- #### [Stop-words in four languages and stopwords overlap](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+6. #### [Stop-words in four languages and stopwords overlap](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
 
 ## Papers from this project 
