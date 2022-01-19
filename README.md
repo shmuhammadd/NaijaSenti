@@ -44,7 +44,7 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 ## Language Resources Developed
 
 
-1.  #### [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+#### 1. [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
 2.  #### [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)  
 
