@@ -1,11 +1,9 @@
-# Useful Repositories
+# Unlableed Twitter Corpus
 
-- [Useful Repositories](#useful-repositories)
-  - [Summarization](#summarization)
-  - [Sentiment](#sentiment)
-
-## Summarization
-- [Persian-Summarization](https://github.com/minasmz/Persian-Summarization) - Statistical and semantical text summarizer in Persian language
-  
-## Sentiment
-- [Persian Sentiment Analysis](https://github.com/ashalogic/Persian-Sentiment-Analyzer) - Persian sentiment analysis ( آناکاوی سهش های فارسی | تحلیل احساسات فارسی ) is a simple ready to use project that use Python to create the model and Also it's include a very good IPython Tutorial.  
+We released the first [large-scale uannannotated Twitter corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for the four languages. This corpus can be use for any other Natural Language Processing downstream tasks. **Status**: ![100%](https://progress-bar.dev/100)
+ 
+| Languages | #positive | #negative| #negative| 
+| --------- | -------- |  -------- | -------- |
+| Hausa  | Content Cell  |  Content Cell  | -------- |
+| Igbo  | Content Cell  |  Content Cell  |-------- |
+| Yoruba  | Content Cell  |  Content Cell  | -------- |
