@@ -44,23 +44,13 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 ## Language Resources Developed
 
 
-#### [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+- #### [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
-#### [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)  
+- #### [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)  
 
-#### [Semi-automatically Translated emotion lexicon]((https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)) 
+- #### [Semi-automatically Translated emotion lexicon]((https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)) 
 
-#### Semi-automatically Translated sentiment lexicon
-
-We translated [NRC Word-Emotion](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) in to three languages (Hausa, Igbo, and Yoruba). We used Google Translate API for translation. The transslation was verified and corrected by expert translators. 
-
-
-| Languages | #positive | #negative| 
-| --------- | -------- |  -------- | 
-| Hausa  | Content Cell  |  Content Cell  | 
-| Igbo  | Content Cell  |  Content Cell  |
-| Yoruba  | Content Cell  |  Content Cell  | 
-
+- #### Semi-automatically Translated sentiment lexicon
 
 #### Large Scale Unlabled Twitter Sentiment Corpus
 
