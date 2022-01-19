@@ -23,7 +23,7 @@ NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the developm
 
 ## Welcome!
 
-This is a repository for SentiNaija project, a [Lacuna Fund](https://lacunafund.org) funded project for the development of sentiment corpus for three major Nigerian languages (Igbo, Hausa and Yoruba). Jump straight to one of the sections below, or just scroll down to find out more.
+This is a repository for SentiNaija project, a [Lacuna Fund](https://lacunafund.org) funded project for the development of sentiment corpus for four major Nigerian languages (Igbo, Hausa and Yoruba). Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
