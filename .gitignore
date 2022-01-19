@@ -3,7 +3,6 @@
 .RData
 .Ruserdata
 sentiNaija/
-.DS_Store
-.Rproj
-.SentiNaija.Rproj
+*.DS_Store
+*.Rproj
 
