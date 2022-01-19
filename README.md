@@ -47,11 +47,11 @@ We create the following pen-source sentiment corpus in four major Nigerian langu
 
 
 
-                                    | Langugaes      | #positive| #Negative| #Neutral |#Code-mix |#mono-ling. | 
-                                    |----------------|----------|----------|----------|----------|------------|              
-                                    | Hausa          |          |          |          |          |            |
-                                    | Igbo.          |          |          |          |          |            |
-                                    | Nigirian-Pidgin|          |          |          |          |            |
+                                    | Langugaes      | #positive | #Negative | #Neutral | #Code-mix | #mono-ling. | 
+                                    | -------------- | --------  | --------  | -------- |  -------- |  ---------- |              
+                                    | Hausa          |           |           |          |           |             |
+                                    | Igbo.          |           |           |          |           |             |
+                                    | Nigirian-Pidgin|           |           |          |           |             |
                                     | Yoruba         |          |          |          |          |            |
 
 
