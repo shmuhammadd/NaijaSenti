@@ -44,15 +44,15 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 ## Language Resources Developed
 
 
-#### 1. [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+#### 1. [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/annotated_twitter_corpus.md)
 
-#### 2. [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)  
+#### 2. [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/annotated_sentiment_lexicon.md)  
 
-#### 3. [Semi-automatically Translated emotion lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+#### 3. [Semi-automatically Translated emotion lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/translated_emotion_lexicon.md)
 
-#### 4. [Semi-automatically Translated sentiment lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+#### 4. [Semi-automatically Translated sentiment lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/translated_lexicon.md)
 
-#### 5. [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+#### 5. [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/blob/main/sections/unlabeled_twitter_corpus.md)
 
 #### 6. [Stop-words in four languages and stopwords overlap](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
