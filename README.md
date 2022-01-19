@@ -1,26 +1,12 @@
 ###  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Kaabo !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Nnọọ!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 
-<!--
-**hausa-nlp/Hausa-NLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#hausa-nlp)
 
-# SentiNaija : Lacuna Funded Project for Developement of Sentiment Corpus
+# NaijaSenti : Lacuna Funded Project for Developement of Sentiment Corpus
 
 
 ![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)
@@ -50,29 +36,27 @@ This is a repository for SentiNaija project, a [Lacuna Fund](https://lacunafund.
 
 ## The problem
 
-Sentiment analysis (SA) is a field of research in Natural Language Processing (NLP) that deals with the identification and classification of people’s opinions, sentiments and emotion  in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, no any existing **publicly available** sentiment corpus in Igbo, Hausa, and Yoruba languages.
+Sentiment analysis (SA) deals with the identification and classification of people’s opinions, sentiments, and emotions in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, there is no existing **publicly available**  sentiment corpus in Igbo, Hausa, and Yoruba languages.
 
 
 ## Language Resources Developed
 
-We take the first step to break this digital divide by creating an open-source sentiment corpus in three major Nigerian languages: Igbo, Hausa, and Yoruba supported by [Lacuna Fund](https://lacunafund.org). We are developing the following resources:
+We are creating an open-source sentiment corpus in four major Nigerian languages: Hausa, Igbo, Nigerian-Pidgin and Yoruba, supported by [Lacuna Fund](https://lacunafund.org). Specifically, we are developing the following resources:
 
- * The first [large Scale Twitter Corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for Igbo, Hausa and Yoruba. This corpus can be use for any other Natural Language Processing downstream tasks. **Status**: ![100%](https://progress-bar.dev/80)
+ * The first [large Scale Unannotated Twitter Corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for the four languages. This corpus can be use for any other Natural Language Processing downstream tasks. **Status**: ![100%](https://progress-bar.dev/100)
  
- * The first large scale manually annotated Twitter Sentiment Corpus for Igbo (SentiIgbo), Hausa(SentiHausa) and Yoruba (SentiYoruba). **Status**: ![60%](https://progress-bar.dev/60)
+ * The first large scale manually annotated Twitter Sentiment Corpus (code-mix and monolingual) for the four languaages. **Status**: ![95%](https://progress-bar.dev/95)
 
 
- * The first large scale manually annotated sentiment lexicon for Igbo (IgboSentiLex), Hausa (HausaSentiLex) and Yoruba(YorubaSentiLex). **Status**: ![50%](https://progress-bar.dev/60)
+ * The first large scale manually annotated sentiment lexicon for Igbo Hausa, Igbo and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
 
 
- * The first large scale manually annotated hate speech lexicon for Igbo(IgboHateLex), Hausa (HausaHateLex) and Yoruba(YorubaHateLex). **Status**: ![50%](https://progress-bar.dev/50)
+ * Manually annotated hate speech lexicon for Igbo, Hausa and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
 
-  * The first large scale semi-automatic devloped sentiment lexicon for Igbo, Hausa and Yoruba. **Status**: ![50%](https://progress-bar.dev/50)
+ * Semi-automatic devloped sentiment lexicon for Igbo, Hausa and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
+ 
+ * Semi-automatic emotion lexicon for Igbo, Hausa and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
 
-  
-  * The first large scale semi-automatic emotion lexicon for Igbo, Hausa and Yoruba. **Status**: ![30%](https://progress-bar.dev/30)
-
-  
   * The first large scale manually annotated code-mixed tweets for Igbo, Hausa and Yoruba. **Status**: ![0%](https://progress-bar.dev/0)
 
   * The first Semi-automatic stop-words in Hausa, Ibo and Yoruba language. **Status**: ![40%](https://progress-bar.dev/40)
@@ -87,18 +71,18 @@ We have not yet published any paper. We are currently working on data curation a
  
 # The Team
 
-This is a joint collaboration between HausaNLP and Masakhane community. HausaNLP is an open source community of academics, researchers, students, ml-engineeers, and NLP ethusiastics with passion for Hausa natural language processing. Masaakhane NLP is a grassroot African NLP community aim to democratize NLP in African continents.
+
+This is a joint collaboration between [HausaNLP](https://www.hausanlp.org) and the [MasakhaneNLP](https://www.masakhane.io) community. HausaNLP is an open source community of academics, researchers, students, ML-engineers, and NLP enthusiasts with a passion for Hausa natural language processing. Masaakhane NLP is a grassroot African NLP community aiming to democratise NLP on the African continent.
 
 The team involved in this project are:
 
 | Names | Institutions |
 | --- | --- | 
-| Shamsuddeen Muhammad | Bayero Universitu, Kano | 
-| Bello Shehu Bello| Bayero Universitu, Kano| |
-| Ibrahim Said Ahmad | Bayero Universitu, Kano |
-| Jade Abbot| Masakhane|
-| Ahmad Shehu | American University of Nigeria |
-| Idris  | Ahmadu Bello University|
+| [Shamsuddeen Muhammad](https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/) | Bayero Universitu, Kano | 
+| [Bello Shehu Bello](https://www.hausanlp.org/author/bello-shehu-bello/)| Bayero Universitu, Kano| |
+| [Ibrahim Said Ahmad](https://www.hausanlp.org/author/ibrahim-said-ahmad/) | Bayero Universitu, Kano |
+| [Ahmad Shehu](https://www.hausanlp.org/author/ahamdu-shehu/) | American University of Nigeria |
+| [Idris Abdulmumin](https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/) | Ahmadu Bello University|
 
 
 <!--
