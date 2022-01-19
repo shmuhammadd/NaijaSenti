@@ -61,10 +61,9 @@ We manually annotated the Twitter sentiment corpus in four major Nigerian langua
 We selected the tweets classified as positive and negative above and manually tagged positive, negative and hate words in the tweets. 
 
 | Languages | #positive | #negative| #hate |  
-| --------- | -------- |  -------- | -------- |  ---------- | 
+| --------- | -------- |  -------- | -------- |  
 | Hausa  | Content Cell  |  Content Cell  | Content Cell  |  
 | Igbo  | Content Cell  |  Content Cell  | Content Cell  | 
-| Yoruba |  |||
 
  * The first large scale manually annotated Twitter Sentiment Corpus both code-mix and monolingual) for the four languaages. **Status**: ![95%](https://progress-bar.dev/95)
 
