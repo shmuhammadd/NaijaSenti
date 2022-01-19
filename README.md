@@ -43,9 +43,10 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 
 ## Language Resources Developed
 
-We create the following pen-source sentiment corpus in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin and Yoruba) supported by [Lacuna Fund](https://lacunafund.org):
 
+### Manually Annotated Sentiment corpus
 
+We manually annotated Twitter sentiment corpus in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin and Yoruba). We realese the dataset with the following metadata for each language: number of positive, negative and neutral classes. We also manually annotated the dataset and classify the tweet if is code-mixed (e.g mix of Hausa and English or Hausa and Yoruba) or monolingual. 
  
 | Languages |      #positive |      #negative| #neutral |  #code-mixedd  | #mono-lingual | 
 | --------- | -------- |  -------- | -------- |  ---------- | ---------- |
