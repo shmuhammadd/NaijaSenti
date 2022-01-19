@@ -46,20 +46,11 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 
 #### [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
-#### Manually Annotated Sentiment Lexicon ()
+#### [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)  
 
-### Semi-automatically Translated emotion lexicon
+#### [Semi-automatically Translated emotion lexicon]((https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)) 
 
-We translated [NRC Word-Emotion](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) in to three languages (Hausa, Igbo, and Yoruba). We used Google Translate API for translation. The transslation was verified and corrected by expert translators. Each word is associated with entries from eight basic emotions (anger, anticipation, disgust, fear, joy, sadness, surprise, trust) 
-
-
-| Languages | #anger | #anticipation| #disgust |  Languages | #anger | #anticipation| #disgust |   #disgust |  
-| --------- | -------- |  -------- | -------- |   --------- | -------- |  -------- | -------- |   -------- | 
-| Hausa  | Content Cell  |  Content Cell  | Content Cell  |   Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | 
-| Igbo  | Content Cell  |  Content Cell  | Content Cell  |  Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | 
-| Yoruba  | Content Cell  |  Content Cell  | Content Cell  |  Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | 
-
-### Semi-automatically Translated sentiment lexicon
+#### Semi-automatically Translated sentiment lexicon
 
 We translated [NRC Word-Emotion](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) in to three languages (Hausa, Igbo, and Yoruba). We used Google Translate API for translation. The transslation was verified and corrected by expert translators. 
 
