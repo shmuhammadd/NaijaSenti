@@ -44,17 +44,9 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 ## Language Resources Developed
 
 
-### [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
+#### [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
-### Manually Annotated Sentiment Lexicon
-
-We selected the tweets classified as positive and negative above and manually tagged positive, negative and hate words in the tweets. 
-
-| Languages | #positive | #negative| #hate |  
-| --------- | -------- |  -------- | -------- |  
-| Hausa  | Content Cell  |  Content Cell  | Content Cell  |  
-| Igbo  | Content Cell  |  Content Cell  | Content Cell  | 
-| Yoruba  | Content Cell  |  Content Cell  | Content Cell  | 
+#### Manually Annotated Sentiment Lexicon ()
 
 ### Semi-automatically Translated emotion lexicon
 
