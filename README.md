@@ -48,25 +48,13 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 
 - #### [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)  
 
-- #### [Semi-automatically Translated emotion lexicon]((https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)) 
+- #### [Semi-automatically Translated emotion lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
-- #### Semi-automatically Translated sentiment lexicon
+- #### [Semi-automatically Translated sentiment lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
-#### Large Scale Unlabled Twitter Sentiment Corpus
+- #### [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
-
-
- * Manually annotated sentiment lexicon for Igbo Hausa, Igbo and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
-
- * Manually annotated hate speech lexicon for Igbo, Hausa and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
-
- * Semi-automatic devloped sentiment lexicon for Igbo, Hausa and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
- 
- * Semi-automatic emotion lexicon for Igbo, Hausa and Yoruba. **Status**: ![100%](https://progress-bar.dev/100)
-
-  * The first large scale manually annotated code-mixed tweets for Igbo, Hausa and Yoruba. **Status**: ![0%](https://progress-bar.dev/0)
-
-  * The first Semi-automatic stop-words in Hausa, Ibo and Yoruba language. **Status**: ![40%](https://progress-bar.dev/40)
+- #### [Stop-words in four languages and stopwords overlap](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
 
 ## Papers from this project 
