@@ -77,6 +77,18 @@ We translated [NRC Word-Emotion](https://saifmohammad.com/WebPages/NRC-Emotion-L
 | Igbo  | Content Cell  |  Content Cell  | Content Cell  |  Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | 
 | Yoruba  | Content Cell  |  Content Cell  | Content Cell  |  Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | 
 
+### Semi-automatically Translated sentiment lexicon
+
+We translated [NRC Word-Emotion](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) in to three languages (Hausa, Igbo, and Yoruba). We used Google Translate API for translation. The transslation was verified and corrected by expert translators. 
+
+
+| Languages | #positive | #negative| 
+| --------- | -------- |  -------- | 
+| Hausa  | Content Cell  |  Content Cell  | 
+| Igbo  | Content Cell  |  Content Cell  |
+| Yoruba  | Content Cell  |  Content Cell  | 
+
+
  * The first large scale manually annotated Twitter Sentiment Corpus both code-mix and monolingual) for the four languaages. **Status**: ![95%](https://progress-bar.dev/95)
 
  *  The first [large Scale Unannotated Twitter Corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for the four languages. This corpus can be use for any other Natural Language Processing downstream tasks. **Status**: ![100%](https://progress-bar.dev/100)
