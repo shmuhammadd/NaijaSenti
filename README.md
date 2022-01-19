@@ -47,11 +47,11 @@ We create the following pen-source sentiment corpus in four major Nigerian langu
 
 
                                     | Langugaes  | #positive | #Negative  | #Neutral | Code-mix | mono-lingual | 
-                                    | ------------- | ------------- |---------------|---------------|---------------|---------------|              
-                                    | Hausa  | Content Cell  |               |.      |               |              |
-                                    | Igbo.  | Content Cell  |               |       |               |              |
-                                    | Nigirian-Pidgin |.     |               |       |               |              |
-                                    | Yoruba          |.     |               |.      |               |              |
+                                    | ------------- | -------- |----------|----------|----------|----------|              
+                                    | Hausa  |    |               |      |               |              |
+                                    | Igbo.  |   |               |       |               |              |
+                                    | Nigirian-Pidgin |     |               |       |               |              |
+                                    | Yoruba          |     |               |      |               |              |
 
 
  * The first large scale manually annotated Twitter Sentiment Corpus both code-mix and monolingual) for the four languaages. **Status**: ![95%](https://progress-bar.dev/95)
