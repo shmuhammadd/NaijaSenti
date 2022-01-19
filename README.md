@@ -66,6 +66,11 @@ We selected the tweets classified as positive and negative above and manually t
 | Igbo  | Content Cell  |  Content Cell  | Content Cell  | 
 | Yoruba  | Content Cell  |  Content Cell  | Content Cell  | 
 
+### Semi-automatically Translated emotion lexicon
+
+We translated NRC Word-Emotion (https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) in to three languages (Hausa, Igbo, and Yoruba) emotion lexicon. Each word is associated with entries from eight basic emotions (anger, anticipation, disgust, fear, joy, sadness, surprise, trust) 
+
+
 
  * The first large scale manually annotated Twitter Sentiment Corpus both code-mix and monolingual) for the four languaages. **Status**: ![95%](https://progress-bar.dev/95)
 
