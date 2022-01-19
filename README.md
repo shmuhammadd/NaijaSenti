@@ -44,7 +44,7 @@ Sentiment analysis (SA) deals with the identification and classification of peop
 ## Language Resources Developed
 
 
-### Manually Annotated Sentiment corpus
+### Manually Annotated Twitter Sentiment corpus
 
 We manually annotated the Twitter sentiment corpus in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin, and Yoruba). We realese the dataset with the following metadata for each language: the number of positive, negative, and neutral classes. We also manually annotated the dataset and classified the tweets if they were code-mixed (e.g., a mix of Hausa and English or Hausa and Yoruba) or monolingual.
 
@@ -56,7 +56,15 @@ We manually annotated the Twitter sentiment corpus in four major Nigerian langua
 | Yoruba  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
 
 
+### Manually Annotated Sentiment Lexicon
 
+We selected the tweets classified as positive and negative above and manually tagged positive, negative and hate words in the tweets. 
+
+| Languages | #positive | #negative| #hate |  
+| --------- | -------- |  -------- | -------- |  ---------- | 
+| Hausa  | Content Cell  |  Content Cell  | Content Cell  |  
+| Igbo  | Content Cell  |  Content Cell  | Content Cell  | 
+| Yoruba |  |||
 
  * The first large scale manually annotated Twitter Sentiment Corpus both code-mix and monolingual) for the four languaages. **Status**: ![95%](https://progress-bar.dev/95)
 
