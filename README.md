@@ -47,12 +47,12 @@ We create the following pen-source sentiment corpus in four major Nigerian langu
 
 
  
-| First Header  | Second Header |  First Header  | Second Header |  First Header  | Second Header | 
+| Languages |      #positive |      #negative| Second Header |  First Header  | Second Header | 
 | ------------- | ------------- |  ------------- | ------------- |  ------------- | ------------- |
-| Content Cell  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
+| Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
+| Igbo  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
+| Pidgin  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
+| Yoruba  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
 
 
 
