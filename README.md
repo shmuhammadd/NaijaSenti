@@ -6,7 +6,7 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#hausa-nlp)
 
-# SentiNaija : Lacuna Funded Project for Developement of Sentiment Corpus
+# NaijaSenti : Lacuna Funded Project for Developement of Sentiment Corpus
 
 
 ![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)
