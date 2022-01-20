@@ -8,7 +8,6 @@
 
 # NaijaSenti 1.0.0
 
-NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the development of open-source sentiment corpora for four major Nigerian languages.
 
 
 ![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)
@@ -23,7 +22,8 @@ NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the developm
 
 ## Welcome!
 
-This is a repository for SentiNaija project, a [Lacuna Fund](https://lacunafund.org) funded project for the development of sentiment corpus for four major Nigerian languages (Igbo, Hausa and Yoruba). Jump straight to one of the sections below, or just scroll down to find out more.
+NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the development of open-source sentiment corpora for four major Nigerian languages.
+Jump straight to one of the sections below, or just scroll down to find out more.
 
 ## Table of Contents
 
