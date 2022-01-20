@@ -47,15 +47,14 @@ We released the following corpora to foster NLP research in these languages:
 
 #### 1. [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/annotated_twitter_corpus.md)
 
-#### 2. [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/annotated_sentiment_lexicon.md)  
+#### 2. [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/tree/main/data/annotated_sentiment_lexicon)  
 
-#### 3. [Semi-automatically Translated emotion lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/translated_emotion_lexicon.md)
+#### 3. [Semi-automatically Translated emotion lexicon](https://github.com/hausanlp/NaijaSenti/tree/main/data/translated_emotion_lexicon)
 
-#### 4. [Semi-automatically Translated sentiment lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/translated_lexicon.md)
+#### 4. [Semi-automatically Translated sentiment lexicon](https://github.com/hausanlp/NaijaSenti/tree/main/data/translated_sentiment_lexicon)
 
-#### 5. [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/blob/main/sections/unlabeled_twitter_corpus.md)
+#### 5. [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/tree/main/data/Unlabled_Twitter_Corpus)
 
-#### 6. [Stop-words in four languages and stopwords overlap](https://github.com/hausanlp/NaijaSenti/blob/main/sections/datasets.md)
 
 
 ## Papers from this project 
