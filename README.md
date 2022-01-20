@@ -12,10 +12,6 @@
 ️-->
 
 
-
-# NaijaSenti
-
-
 <p align="center">
 <img src="/image/naijasenti_logo1.png" width="500">
 </p>
