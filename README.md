@@ -38,11 +38,12 @@ Jump straight to one of the sections below, or just scroll down to find out more
 
 ## The problem
 
-Sentiment analysis (SA) deals with the identification and classification of people’s opinions, sentiments, and emotions in a piece of text. There are many language resources in the research community for SA. However, most of them are for English, Chinese, and European languages. To the best of our knowledge, there is no existing **publicly available**  sentiment corpus in Igbo, Hausa, and Yoruba languages.
+Sentiment analysis (SA) deals with the identification and classification of people’s opinions, sentiments, and emotions in a piece of text. There are many language resources in the research community for SA. However, most of them are for high-resource languages (e.g, English). To the best of our knowledge, there is no existing **publicly available**  sentiment corpus in Igbo, Hausa, Yoruba, and Pidgin.  
 
 
 ## Language Resources Developed
 
+We release the corpora to foster NLP research in these languages:
 
 #### 1. [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/annotated_twitter_corpus.md)
 
