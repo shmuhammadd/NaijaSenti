@@ -7,8 +7,8 @@ We manually annotated the Twitter sentiment corpus in four major Nigerian langua
 
 | Languages |      #positive |      #negative| #neutral |  #code-mixedd  | #mono-lingual | 
 | --------- | -------- |  -------- | -------- |  ---------- | ---------- |
-| Hausa  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
-| Igbo  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
-| Pidgin  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
-| Yoruba  | Content Cell  |  Content Cell  | Content Cell  |  Content Cell  | Content Cell  |
+| Hausa  |    9,235    |  9,033  | 12,826  |  6,426  | 21,039   | 
+| Igbo  |  5,621  |  4,726 | 14,887  |  6,561  |  8,688  |
+| Pidgin  | 3,010  |  5,635  |  717 |  -  | -  |
+| Yoruba  | 9,839  |  5,003  | 14,356  |  4,457  | 18,622  | 
 
