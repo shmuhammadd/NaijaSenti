@@ -35,11 +35,16 @@ NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the developm
 
 ## Table of Contents
 
+  - [Paper](#paper)
   - [Abstract](#Abstract)
   - [Language Resource Developed](#Language-Resource-Devloped)
   - [papers from this project](#papers-from-this-project)
   - [Contact us](#contact-us)
 
+
+## Paper
+
+Read the NaijaSenti paper here
 
 
 ## Abstract
