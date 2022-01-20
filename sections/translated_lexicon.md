@@ -7,6 +7,6 @@ We translated [NRC Word-Emotion](https://saifmohammad.com/WebPages/NRC-Emotion-L
 
 | Languages | #positive | #negative| 
 | --------- | -------- |  -------- | 
-| Hausa  | Content Cell  |  Content Cell  | 
-| Igbo  | Content Cell  |  Content Cell  |
-| Yoruba  | Content Cell  |  Content Cell  | 
+| Hausa  |  3,955  |   6,980   | 
+| Igbo  |  3,842   |   6,811  |
+| Yoruba  | 3,939   |  7,009  | 
