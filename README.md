@@ -118,7 +118,9 @@ Thank you so much (mun gode!) for visiting the project and we do hope that you'l
 
 ## Glossary
 
-* Lacuna Fund : Lacuna Fund is the world’s first collaborative effort to provide data scientists, researchers, and social entrepreneurs in low- and middle-income contexts globally with the resources they need to produce labeled datasets that address urgent problems in their communities.
+* **NaijaSenti** : Sentiment corpus for the four Nigerian languages.
+
+* **Lacuna Fund** : Lacuna Fund is the world’s first collaborative effort to provide data scientists, researchers, and social entrepreneurs in low- and middle-income contexts globally with the resources they need to produce labeled datasets that address urgent problems in their communities.
 
 * **Yoruba**: Yoruba is a language spoken in West Africa, most prominently Southwestern Nigeria. It is spoken by the ethnic Yoruba people.
 
