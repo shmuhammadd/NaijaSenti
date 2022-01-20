@@ -28,7 +28,6 @@
 [<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.github.io/) 
 ️-->
 
-## Welcome!
 
 NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the development of open-source sentiment corpora for four major Nigerian languages. Jump straight to one of the sections below, or just scroll down to find out more.
 
@@ -36,11 +35,16 @@ NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the developm
 
 ## Table of Contents
 
+  - [Paper](#paper)
   - [Abstract](#Abstract)
   - [Language Resource Developed](#Language-Resource-Devloped)
   - [papers from this project](#papers-from-this-project)
   - [Contact us](#contact-us)
 
+
+## Paper
+
+Read the NaijaSenti paper here
 
 
 ## Abstract
