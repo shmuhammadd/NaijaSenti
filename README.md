@@ -74,7 +74,7 @@ If you want to report a problem or suggest an enhancement we'd love for you to [
 
 ## Changelog
 
-- 2022-01-21: Released NaijaSenti
+- 2022-01-21: Released NaijaSenti v1.0.0
 
 ## License
 
