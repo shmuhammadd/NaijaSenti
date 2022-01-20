@@ -1,9 +1,4 @@
 
-<p align="center">
-<img src="/image/naijasenti_logo1.png
-" width="500">
-</p>
-
 
 <!-- 
 ###  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Sannu da zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Kaabo !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Nnọọ!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
@@ -21,7 +16,13 @@
 # NaijaSenti 1.0.0
 
 
+<p align="center">
+<img src="/image/naijasenti_logo1.png
+" width="500">
+</p>
 
+
+<!-- 
 ![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)
 ![GitHub](https://img.shields.io/badge/license-CCBY-yellow)
 
@@ -30,7 +31,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/hausanlp?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.hausanlp)[<img src="https://img.shields.io/badge/chat-on slack-yellow.svg?logo=slack">](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA) 
 [<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.github.io/) 
-
+️-->
 
 ## Welcome!
 
