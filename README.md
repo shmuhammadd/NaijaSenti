@@ -22,26 +22,24 @@
 
 ## Welcome!
 
-NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the development of open-source sentiment corpora for four major Nigerian languages.
-Jump straight to one of the sections below, or just scroll down to find out more.
+NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the development of open-source sentiment corpora for four major Nigerian languages. Jump straight to one of the sections below, or just scroll down to find out more.
+
+
 
 ## Table of Contents
 
-  - [The problem](#The-problem)
+  - [Abstract](#Abstract)
   - [Language Resource Developed](#Language-Resource-Devloped)
   - [papers from this project](#papers-from-this-project)
-  - [The Team](#The-Team)
   - [Contact us](#contact-us)
-  - [Glossary](#glossary)
-  
 
 
-## The problem
 
-Sentiment analysis (SA) deals with the identification and classification of people’s opinions, sentiments, and emotions in a piece of text. There are many language resources in the research community for SA. However, most of them are for high-resource languages (e.g, English). To the best of our knowledge, there is no existing **publicly available**  sentiment corpus in Igbo, Hausa, Yoruba, and Pidgin.  
+## Abstract
 
+Sentiment analysis is one of the most widely studied applications in NLP, but most work focuses on languages with largeamounts of data. We introduce the first large-scale human-annotated Twitter sentiment dataset for the four most widely spokenlanguages in Nigeria—Hausa, Igbo, Nigerian-Pidgin, and Yorùbá—consisting of around 30,000 annotated tweets per language(except  for  Nigerian-Pidgin),  including  a  significant  fraction  of  code-mixed  tweets.  We  propose  text  collection,  filtering,processing  and  labeling  methods  that  enable  us  to  create  datasets  for  these  low-resource  languages.   We  evaluate  a  rangeof  pre-trained  models  and  transfer  strategies  on  the  dataset.   We  find  that  language-specific  models  and  language-adaptivefine-tuning  generally  perform  best.   We  release  the  datasets,  trained  models,  sentiment  lexicons,  and  code  to  incentivizeresearch on sentiment analysis in under-represented languages
 
-## Language Resources Developed
+## Download NaijaSenti Dataset
 
 We released the following corpora to foster NLP research in these languages:
 
@@ -60,14 +58,20 @@ We released the following corpora to foster NLP research in these languages:
 ## Papers from this project 
 
 
-We have not yet published any paper. We are currently working on data curation and annotation.
-  
+If you use this data in your work, please cite:
+
+
+@inproceedings{,
+  title={The FLORES-101  Evaluation Benchmark for Low-Resource and Multilingual Machine Translation},
+  author={Goyal, Naman and Gao, Cynthia and Chaudhary, Vishrav and Chen, Peng-Jen and Wenzek, Guillaume and Ju, Da and Krishnan, Sanjana and Ranzato, Marc'Aurelio and Guzm\'{a}n, Francisco and Fan, Angela},
+  year={2021}
+}
+
 
  
 ## The Team
 
 
-This is a joint collaboration between [HausaNLP](https://www.hausanlp.org) and the [MasakhaneNLP](https://www.masakhane.io) community. HausaNLP is an open source community of academics, researchers, students, ML-engineers, and NLP enthusiasts with a passion for Hausa natural language processing. Masaakhane NLP is a grassroot African NLP community aiming to democratise NLP on the African continent.
 
 The co-investigators involved in this project are:
 
@@ -80,54 +84,17 @@ The co-investigators involved in this project are:
 | [Idris Abdulmumin](https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/) | Ahmadu Bello University|
 
 
-<!--
-
-[contributors' guidelines](CONTRIBUTING.md) and our [roadmap](../../issues/1).
-
--->
-<!--
-   - Join our [Google group](hausa-nlp@googlegroups.com)
-   - To be feature on our website? send us your details via hausanlp@gmail.com and use this as a [template](https://hausanlp.github.io/author/ibrahim-said-ahmad/)
-
-<!--
-[code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
-
--->
-
-
-<!-- 
-http://indigenousblogs.com/ha/
--->
-  
-
-<!-- TODO: Add last video link 
-
-## Maintainers (Hall of Fame)
-
--->
-
 
 ## Contact us
 
 If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact us by email (hausanlp AT gmail DOT com) or on [twitter](https://twitter.com/hausanlp).
 
-## Thank you
 
-Thank you so much (mun gode!) for visiting the project and we do hope that you'll join us on this amazing journey to support development of resources for Nigerian natural language processing.
+## Changelog
 
-## Glossary
+- 2022-01-21: Released NaijaSenti
 
-* **NaijaSenti** : Sentiment corpus for the four Nigerian languages.
+## License
 
-* **Lacuna Fund** : Lacuna Fund is the world’s first collaborative effort to provide data scientists, researchers, and social entrepreneurs in low- and middle-income contexts globally with the resources they need to produce labeled datasets that address urgent problems in their communities.
-
-* **Yoruba**: Yoruba is a language spoken in West Africa, most prominently Southwestern Nigeria. It is spoken by the ethnic Yoruba people.
-
-* **Hausa**:  Hausa is a Chadic language spoken by the Hausa people, mainly within the territories of Niger and the northern half of Nigeria, and with significant minorities in Chad, Ghana, and Cameroon.
-
-* **Igbo**:  Igbo is the principal native language of the Igbo people, an ethnic group from eastern Nigeria..
-* **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content
-
-* **Milestone**: an event or state marking a specific stage in development on the project
-* **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects
+The dataset is licenced under CC-BY-SA, see the LICENSE file for details.
 
