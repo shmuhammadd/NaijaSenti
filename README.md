@@ -68,23 +68,6 @@ If you use this data in your work, please cite:
 }
 
 
- 
-## The Team
-
-
-
-The co-investigators involved in this project are:
-
-| Names | Institutions |
-| --- | --- | 
-| [Shamsuddeen Muhammad](https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/) | Bayero Universitu, Kano | 
-| [Bello Shehu Bello](https://www.hausanlp.org/author/bello-shehu-bello/)| Bayero Universitu, Kano| |
-| [Ibrahim Said Ahmad](https://www.hausanlp.org/author/ibrahim-said-ahmad/) | Bayero Universitu, Kano |
-| [Ahmad Shehu](https://www.hausanlp.org/author/ahamdu-shehu/) | American University of Nigeria |
-| [Idris Abdulmumin](https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/) | Ahmadu Bello University|
-
-
-
 ## Contact us
 
 If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact us by email (hausanlp AT gmail DOT com) or on [twitter](https://twitter.com/hausanlp).
