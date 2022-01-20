@@ -13,7 +13,7 @@
 
 
 
-# NaijaSenti 1.0.0
+# NaijaSenti
 
 
 <p align="center">
