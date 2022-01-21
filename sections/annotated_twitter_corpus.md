@@ -43,7 +43,7 @@ See the following for more information on how to generate these keys
 
 
 
-## Hydrate Tweets using Tweet IDs in Python
+## Hydrate Tweets using Tweet IDs 
 
 We will be using the [twarc](https://github.com/DocNow/twarc) library in Python. More info on using [twarc](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/)
 
@@ -75,21 +75,20 @@ twarc2 hydrate ids.txt tweets.jsonl
 
 ### Processing data into common analysis formats
 
-The resulting file is a data type called JSON, which has many advantages for moving large amounts of structured data. However, we need to take some steps to transform the JSON into a form more common for data analysis. We can use the twarc-csv module to convert the line oriented JSON to CSV which then should be more easy to use as DataFrames in tools like Pandas and R. Twarc plugins are distributed separately from twarc, and they extend the base twarc2 command with additional subcommands, in the case of twarc-csv a csv subcommand will be added.
+The resulting file (`tweets.jsonl`)is a data type called JSON, which has many advantages for moving large amounts of structured data. However, we need to take some steps to transform the JSON into a form more common for data analysis. We can use the twarc-csv module to convert the line oriented JSON to CSV which then should be more easy to use as DataFrames in tools like Pandas and R. Twarc plugins are distributed separately from twarc, and they extend the base twarc2 command with additional subcommands, in the case of twarc-csv a csv subcommand will be added.
 
-```python
+```bash
 
 # install  twarc-csv
 pip3 install --upgrade twarc-csv
 
  # convert to CSV
 twarc2 csv tweets.jsonl tweets.csv
-
-import pandas
-
-pandas.read_csv('tweets.csv')# load the CSV into a Pandas DataFrame:
-
 ```
+
+You can load the CSV into a Pandas DataFrame.
+
+
 ## Hydrate Tweets using Tweet IDs in R
 
 
