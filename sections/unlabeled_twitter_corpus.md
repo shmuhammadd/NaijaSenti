@@ -45,35 +45,26 @@ To crawl tweets you will need to have a set of keys and tokens to authenticate y
 
 ### Lookup Tweets using Tweet IDs
 
-```python
-# This will import the Twarc2 client and expansions class from twarc library and also the json library
-from twarc import Twarc2, expansions
-import json
 
-# This is where you initialize the client with your own bearer token (replace the XXXXX with your own bearer token)
-client = Twarc2(bearer_token="XXXXX")
+```bash
 
-#Once you have initialized the client, and imported the expansions class and the json library, you are ready to get Twitter data using the Twitter API v2.
+#Open up a new terminal and install twarc v2 
+pip install twarc
 
-def main():
-    # List of Tweet IDs you want to lookup
-    tweet_ids = ['1404192093803741184', '1403738886275096605', '1397216898593525762']
-    # The tweet_lookup function allows 
-    lookup = client.tweet_lookup(tweet_ids=tweet_ids)
-    for page in lookup:
-        # The Twitter API v2 returns the Tweet information and the user, media etc.  separately
-        # so we use expansions.flatten to get all the information in a single JSON
-        result = expansions.flatten(page)
-        for tweet in result:
-            # Here we are printing the full Tweet object JSON to the console
-            print(json.dumps(tweet))
+#Configuring twarc v2 with your API keys
+twarc2 configure
 
+#twarc's hydrate command will read a file of tweet identifiers and write out the tweet JSON for them using Twitter's tweets API endpoint:
 
-if __name__ == "__main__":
-    main()
+twarc2 hydrate ids.txt tweets.jsonl
 
+#The input file, ids.txt is expected to be a file that contains a tweet identifier on each line, without quotes or a header suh as:
 
 ```
+
+>919505987303886849
+919505982882844672
+919505982602039297
 
 
 ## R
