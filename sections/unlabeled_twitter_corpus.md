@@ -53,16 +53,16 @@ pip install twarc
 
 #Configuring twarc v2 with your API keys
 twarc2 configure
-
-#twarc's hydrate command will read a file of tweet identifiers and write out the tweet JSON for them using Twitter's tweets API endpoint:
-
-twarc2 hydrate ids.txt tweets.jsonl
-
-#The input file, ids.txt is expected to be a file that contains a tweet identifier on each line, without quotes or a header suh as:
-
 ```
 
->919505987303886849
+> twarc's hydrate command will read a file of tweet identifiers and write out the tweet JSON for them using Twitter's tweets API endpoint:
+
+```bash
+twarc2 hydrate ids.txt tweets.jsonl
+
+```
+> The input file, ids.txt is expected to be a file that contains a tweet identifier on each line, without quotes or a header suh as:
+919505987303886849
 919505982882844672
 919505982602039297
 
