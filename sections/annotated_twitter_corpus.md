@@ -77,20 +77,18 @@ twarc2 hydrate ids.txt tweets.jsonl
 
 The resulting file is a data type called JSON, which has many advantages for moving large amounts of structured data. However, we need to take some steps to transform the JSON into a form more common for data analysis. We can use the twarc-csv module to convert the line oriented JSON to CSV which then should be more easy to use as DataFrames in tools like Pandas and R. Twarc plugins are distributed separately from twarc, and they extend the base twarc2 command with additional subcommands, in the case of twarc-csv a csv subcommand will be added.
 
-```bash
+```python
 
 # install  twarc-csv
 pip3 install --upgrade twarc-csv
 
  # convert to CSV
 twarc2 csv tweets.jsonl tweets.csv
-```
 
-Then you can load the CSV into a Pandas DataFrame:
-
-```python
 import pandas
-pandas.read_csv('tweets.csv')
+
+pandas.read_csv('tweets.csv')# load the CSV into a Pandas DataFrame:
+
 ```
 ## Hydrate Tweets using Tweet IDs in R
 
