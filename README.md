@@ -44,7 +44,7 @@ NaijaSenti is an open-source sentiment and emotion corpora for four major Nigeri
 
 ## Paper
 
-Read the NaijaSenti paper here: [NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis](https://arxiv.org/abs/2201.08277)
+Read the `NaijaSenti` paper here: [NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis](https://arxiv.org/abs/2201.08277)
 
 
 ## Abstract
