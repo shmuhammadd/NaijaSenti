@@ -111,14 +111,28 @@ bearer_token <- "XXXXX"
 hydrate_tweets(
   ids = c("919505987303886849", "919505982882844672", "919505982602039297")
   bearer_token = bearer_token,
-  data_path = "path",
+  data_path = "data",
   bind_tweets = TRUE,
   verbose = TRUE
 )
 
 ```
 
+### Processing data into common analysis formats
 
+
+You can `bind_tweets` function to bundle the JSONs into a data.frame object for analysis in R as follows:
+
+```R
+
+tweets <- bind_tweets(data_path = "data/")
+users <- bind_tweets(data_path = "data/", user = TRUE)
+
+#You can also bind JSONs into tidy format by specify a tidy output format.
+
+bind_tweets(data_path = "tweetdata", output_format = "tidy")
+
+```
 
 ## I cannot download the tweets, what can I do?
 
