@@ -32,18 +32,16 @@ Our corpus was built using Twitter API v2 which allow access to historical Tweet
 
 We will be using the [twarc](https://github.com/DocNow/twarc) library in Python
 
-```Bash
-pip3 install twarc
-```
+
 ### Prerequisites
 To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens by following these steps:
 
 1. Sign up for a developer account and receive approval.
 2. Create a Project and an associated developer App in the developer portal.
-3. Navigate to your App's “Keys and tokens” page to generate the required credentials. Make sure to save all credentials in a secure location.
+3. Navigate to your App's “Keys and tokens” page to generate the required credentials. 
 
 
-### Lookup Tweets using Tweet IDs
+### Hydrate Tweets using Tweet IDs in Python
 
 
 ```bash
@@ -74,11 +72,6 @@ twarc2 hydrate ids.txt tweets.jsonl
 For R users, you can use the [academicTwitteR](https://github.com/cjbarrie/academictwitteR) package in R. All the code can be found here. Install the academicTwitteR first:
 
 
-```R
-install.packages("academicTwitteR")
-
-```
-
 ### Prerequisites
 To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens by following these steps:
 
@@ -87,7 +80,15 @@ To crawl tweets you will need to have a set of keys and tokens to authenticate y
 3. Navigate to your App's “Keys and tokens” page to generate the required credentials. Make sure to save all credentials in a secure location.
 
 
+### Hydrate Tweets using Tweet IDs in R
+
+
 ```R
+
+# Install academicTwitteR package
+install.packages("academicTwitteR")
+
+
 # This will load the academicTwitteR package
 library(academictwitteR)
 
