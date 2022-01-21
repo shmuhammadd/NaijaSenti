@@ -30,11 +30,11 @@
 
 
 
-NaijaSenti is an open-source sentiment and emotion corpora for four major Nigerian languages. This project was supported by [lacuna-fund](https://lacunafund.org) initiatives.  Jump straight to one of the sections below, or just scroll down to find out more.
+`NaijaSenti` is an open-source sentiment and emotion corpora for four major Nigerian languages. This project was supported by [lacuna-fund](https://lacunafund.org) initiatives.  Jump straight to one of the sections below, or just scroll down to find out more.
 
 
 ## Table of Contents
-
+ß
   - [Paper](#paper)
   - [Abstract](#Abstract)
   - [Language Resource Developed](#Language-Resource-Devloped)
