@@ -34,7 +34,7 @@
 
 
 ## Table of Contents
-ß
+
   - [Paper](#paper)
   - [Abstract](#Abstract)
   - [Language Resource Developed](#Language-Resource-Devloped)
