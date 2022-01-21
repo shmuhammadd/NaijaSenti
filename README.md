@@ -51,7 +51,7 @@ Read the NaijaSenti paper here: [NaijaSenti: A Nigerian Twitter Sentiment Corpus
 
 Sentiment analysis is one of the most widely studied applications in NLP, but most work focuses on languages with large amounts of data. We introduce the first large-scale human-annotated Twitter sentiment dataset for the four most widely spoken languages in Nigeria—Hausa, Igbo, Nigerian-Pidgin, and Yorùbá—consisting of around 30,000 annotated tweets per language (except for Nigerian-Pidgin), including a significant fraction of code-mixed tweets. We propose text collection, filtering, processing, and labelling methods that enable us to create datasets for these low-resource languages. We evaluate a range of pre-trained models and transfer strategies on the dataset. We find that language-specific models and language-adaptive fine-tuning generally perform best. We make the datasets, trained models, sentiment lexicons, and code available to encourage sentiment analysis research in under-represented languages.
 
-## Download NaijaSenti Dataset
+## Download NaijaSenti Datasets
 
 We released the following corpora:
 
