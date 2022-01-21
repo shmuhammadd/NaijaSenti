@@ -65,7 +65,7 @@ We released the following corpora:
 
 #### 5. [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/blob/main/sections/unlabeled_twitter_corpus.md)
 
-
+## Model 
 
 ## Citation
 
