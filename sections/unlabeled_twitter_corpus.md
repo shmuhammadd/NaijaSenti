@@ -13,6 +13,7 @@ We released the first [large-scale uannannotated Twitter corpus](https://github.
 
 
 
+
 # How to download the dataset?
 
 Twitter has a strong policy for public distribuition of user data. Below is an excerpt from [Twitter policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). 
@@ -27,7 +28,7 @@ So, we cannot not share the entire Tweet text directly. Instead, we can only sha
 
 ## Hydrating Tweets using Tweets IDs. 
 
-Our corpus was built using Twitter API v2 which allow access to historical Tweets from the entire archive of public conversation on Twitter, dating back to 2006 (using the full-archive search endpoint). However, Twitter API v2 is for academic researchers and you can apply [academic research product track](https://developer.twitter.com/en/products/twitter-api/academic-research)
+Our corpus was built using Twitter API v2 which allow access to historical Tweets from the entire archive of public conversation on Twitter, dating back to 2006 (using the full-archive search endpoint). However, Twitter API v2 is for academic researchers and you can apply here:[academic research product track](https://developer.twitter.com/en/products/twitter-api/academic-research)
 
 
 ## Prerequisites
