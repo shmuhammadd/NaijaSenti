@@ -43,7 +43,7 @@ See the following for more information on how to generate these keys
 
 
 
-## Hydrate Tweets using Tweet IDs 
+## Hydrate Tweets using Tweet IDs in Python
 
 We will be using the [twarc](https://github.com/DocNow/twarc) library in Python. More info on using [twarc](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/)
 
