@@ -1,7 +1,7 @@
 
 
 
-## Manually Annotated Twitter Sentiment corpus
+# Manually Annotated Twitter Sentiment corpus
 
 We manually annotated the Twitter sentiment corpus in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin, and Yoruba). We realese the dataset with the following metadata for each language: the number of positive, negative, and neutral classes. We also manually annotated the dataset and classified the tweets if they were code-mixed (e.g., a mix of Hausa and English or Hausa and Yoruba) or monolingual.
 
@@ -15,7 +15,7 @@ We manually annotated the Twitter sentiment corpus in four major Nigerian langua
 
 
 
-## How to download the dataset?
+# How to download the dataset?
 
 Twitter has a strong policy for public distribuition of user data. Below is an excerpt from [Twitter policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). 
 
