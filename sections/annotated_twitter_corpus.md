@@ -13,6 +13,7 @@ We manually annotated the Twitter sentiment corpus in four major Nigerian langua
 | Yoruba  | 9,839  |  5,003  | 14,356  |  4,457  | 18,622  | 
 
 
+
 ## How to download the dataset?
 
 Twitter has a strong policy for public distribuition of user data. Below is an excerpt from [Twitter policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). 
@@ -34,60 +35,46 @@ Our corpus was built using Twitter API v2 which allow access to historical Tweet
 
 We will be using the [twarc](https://github.com/DocNow/twarc) library in Python
 
-```Bash
-pip3 install twarc
-```
+
 ### Prerequisites
 To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens by following these steps:
 
 1. Sign up for a developer account and receive approval.
 2. Create a Project and an associated developer App in the developer portal.
-3. Navigate to your App's “Keys and tokens” page to generate the required credentials. Make sure to save all credentials in a secure location.
+3. Navigate to your App's “Keys and tokens” page to generate the required credentials. 
 
 
-### Lookup Tweets using Tweet IDs
-
-```python
-# This will import the Twarc2 client and expansions class from twarc library and also the json library
-from twarc import Twarc2, expansions
-import json
-
-# This is where you initialize the client with your own bearer token (replace the XXXXX with your own bearer token)
-client = Twarc2(bearer_token="XXXXX")
-
-#Once you have initialized the client, and imported the expansions class and the json library, you are ready to get Twitter data using the Twitter API v2.
-
-def main():
-    # List of Tweet IDs you want to lookup
-    tweet_ids = ['1404192093803741184', '1403738886275096605', '1397216898593525762']
-    # The tweet_lookup function allows 
-    lookup = client.tweet_lookup(tweet_ids=tweet_ids)
-    for page in lookup:
-        # The Twitter API v2 returns the Tweet information and the user, media etc.  separately
-        # so we use expansions.flatten to get all the information in a single JSON
-        result = expansions.flatten(page)
-        for tweet in result:
-            # Here we are printing the full Tweet object JSON to the console
-            print(json.dumps(tweet))
+### Hydrate Tweets using Tweet IDs in Python
 
 
-if __name__ == "__main__":
-    main()
+```bash
 
+#Open up a new terminal and install twarc v2 
+pip install twarc
 
+#Configuring twarc v2 with your API keys
+twarc2 configure
 ```
 
+> twarc's hydrate command will read a file of tweet identifiers and write out the tweet JSON for them using Twitter's tweets API endpoint:
+
+```bash
+twarc2 hydrate ids.txt tweets.jsonl
+
+```
+> The input file, ids.txt is expected to be a file that contains a tweet identifier on each line, without quotes or a header suh as:
+
+```
+919505987303886849
+919505982882844672
+919505982602039297
+```
 
 ## R
 
 For R users, you can use the [academicTwitteR](https://github.com/cjbarrie/academictwitteR) package in R. All the code can be found here. Install the academicTwitteR first:
 
 
-```R
-install.packages("academicTwitteR")
-
-```
-
 ### Prerequisites
 To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens by following these steps:
 
@@ -96,7 +83,15 @@ To crawl tweets you will need to have a set of keys and tokens to authenticate y
 3. Navigate to your App's “Keys and tokens” page to generate the required credentials. Make sure to save all credentials in a secure location.
 
 
+### Hydrate Tweets using Tweet IDs in R
+
+
 ```R
+
+# Install academicTwitteR package
+install.packages("academicTwitteR")
+
+
 # This will load the academicTwitteR package
 library(academictwitteR)
 
@@ -105,7 +100,7 @@ bearer_token <- "XXXXX"
 
 
 hydrate_tweets(
-  ids = c("1266876474440761346", "1266868259925737474")
+  ids = c("919505987303886849", "919505982882844672", "919505982602039297")
   bearer_token = bearer_token,
   data_path = "path",
   bind_tweets = TRUE,
