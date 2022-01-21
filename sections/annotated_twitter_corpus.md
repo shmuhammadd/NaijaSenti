@@ -36,7 +36,7 @@ Our corpus was built using Twitter API v2 which allow access to historical Tweet
 
 To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens.
 See the following for more information on how to generate these keys
-1. [Getting your keys and bearer token from the developer dashboard](Getting your keys and bearer token from the developer dashboard)
+1. [Getting your keys and bearer token from the developer dashboard](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research/blob/main/modules/4-getting-your-keys-and-token.md)
 2. [How to get access to the Twitter API
 ](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
 
