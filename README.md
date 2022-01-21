@@ -87,7 +87,9 @@ If you use this data in your work, please cite:
 
 ## Papers from this project 
 
-Papers that use NaijaSenti dataset:
+Please, let us know if you use NaijaSenti in your papers:
+
+1. 
 
 
 
