@@ -96,7 +96,7 @@ bearer_token <- "XXXXX"
 
 
 hydrate_tweets(
-  ids = c("1266876474440761346", "1266868259925737474")
+  ids = c("919505987303886849", "919505982882844672", "919505982602039297")
   bearer_token = bearer_token,
   data_path = "path",
   bind_tweets = TRUE,
