@@ -25,27 +25,38 @@ So, we cannot not share the entire Tweet text directly. Instead, we can only sha
 
 
 
-### Step
-You only need three things:
+## Hydrating Tweets using Tweets IDs. 
 
-1. The script 'NaijaSenti.py';
-2. The python-twitter library - well, maybe you will need more libraries... I am not sure;
-3. A valid Twitter API key. You need this because technically you are downloading the data on your own, I only labeled the tweets I don't own them.
+Our corpus was built using Twitter API v2 which allow access to historical Tweets from the entire archive of public conversation on Twitter, dating back to 2006 (using the full-archive search endpoint). However, Twitter API v2 is for academic researchers and you can apply to the [academic research product track] (https://developer.twitter.com/en/products/twitter-api/academic-research)
 
 
-1. Make sure you have your bearer token from an app connected to your academic research project, as shown in module 4
+## Python
 
-2. pip3 install twarc
+We will be using the twarc library in Python
+
+```Bash
+pip3 install twarc
+```
+### Prerequisites
+To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens by following these steps:
+
+1. Sign up for a developer account and receive approval.
+2. Create a Project and an associated developer App in the developer portal.
+3. Navigate to your App's “Keys and tokens” page to generate the required credentials. Make sure to save all credentials in a secure location.
+
+
+### Importing the twarc library and the Twarc2 and expansions classes
+
+You will first need to import the twarc library and Twarc2 client and the expansions class, in order to connect to the Twitter API v2 programmatically and get the response. You will also need the json library in order to save the response from the Twitter API in the JSON format
+
 
 ```python
-
 # This will import the Twarc2 client and expansions class from twarc library and also the json library
 from twarc import Twarc2, expansions
 import json
 
 # This is where you initialize the client with your own bearer token (replace the XXXXX with your own bearer token)
 client = Twarc2(bearer_token="XXXXX")
-
 
 from twarc import Twarc2, expansions
 import json
