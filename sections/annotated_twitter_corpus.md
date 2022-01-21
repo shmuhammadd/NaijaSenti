@@ -129,8 +129,7 @@ tweets <- bind_tweets(data_path = "data/")
 users <- bind_tweets(data_path = "data/", user = TRUE)
 
 #You can also bind JSONs into tidy format by specify a tidy output format.
-
-bind_tweets(data_path = "tweetdata", output_format = "tidy")
+bind_tweets(data_path = "data", output_format = "tidy")
 
 ```
 
