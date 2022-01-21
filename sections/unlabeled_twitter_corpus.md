@@ -11,7 +11,9 @@ We released the first [large-scale uannannotated Twitter corpus](https://github.
 
 
 
-## How to download the dataset?
+
+
+# How to download the dataset?
 
 Twitter has a strong policy for public distribuition of user data. Below is an excerpt from [Twitter policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). 
 
@@ -30,28 +32,31 @@ Our corpus was built using Twitter API v2 which allow access to historical Tweet
 
 ## Prerequisites
 
-To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens by following these steps:
+To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens.
+See the following for more information on how to generate these keys
+1. [Getting your keys and bearer token from the developer dashboard](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research/blob/main/modules/4-getting-your-keys-and-token.md)
+2. [How to get access to the Twitter API
+](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
 
-1. Sign up for a developer account and receive approval.
-2. Create a Project and an associated developer App in the developer portal.
-3. Navigate to your App's “Keys and tokens” page to generate the required credentials. 
 
 
 
 ## Hydrate Tweets using Tweet IDs in Python
 
-We will be using the [twarc](https://github.com/DocNow/twarc) library in Python
+We will be using the [twarc](https://github.com/DocNow/twarc) library in Python. More info on using [twarc](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/)
 
 
 ```bash
 
 #Open up a new terminal and install twarc v2 
-pip install twarc
+pip3 install --upgrade twarc
 
-#Configuring twarc v2 with your API keys
+```
+>Once you've got your Twitter developer access set up you can tell twarc what they are with the configure command
+
+```bash
 twarc2 configure
 ```
-
 > twarc's hydrate command will read a file of tweet identifiers and write out the tweet JSON for them using Twitter's tweets API endpoint:
 
 ```bash
@@ -65,6 +70,21 @@ twarc2 hydrate ids.txt tweets.jsonl
 919505982882844672
 919505982602039297
 ```
+
+### Processing data into common analysis formats
+
+The resulting file (`tweets.jsonl`)is a data type called JSON, which has many advantages for moving large amounts of structured data. However, we need to take some steps to transform the JSON into a form more common for data analysis. We can use the twarc-csv module to convert the line oriented JSON to CSV which then should be more easy to use as DataFrames in tools like Pandas and R as follows:
+
+```bash
+
+# install  twarc-csv
+pip3 install --upgrade twarc-csv
+
+ # convert to CSV
+twarc2 csv tweets.jsonl tweets.csv
+```
+
+You can load the CSV into a Pandas DataFrame.
 
 
 ## Hydrate Tweets using Tweet IDs in R
@@ -89,14 +109,27 @@ bearer_token <- "XXXXX"
 hydrate_tweets(
   ids = c("919505987303886849", "919505982882844672", "919505982602039297")
   bearer_token = bearer_token,
-  data_path = "path",
+  data_path = "data",
   bind_tweets = TRUE,
   verbose = TRUE
 )
 
 ```
 
+### Processing data into common analysis formats
 
+
+You can `bind_tweets` function to bundle the JSONs into a data.frame object for analysis in R as follows:
+
+```R
+
+tweets <- bind_tweets(data_path = "data/")
+users <- bind_tweets(data_path = "data/", user = TRUE)
+
+#You can also bind JSONs into tidy format by specify a tidy output format.
+bind_tweets(data_path = "data", output_format = "tidy")
+
+```
 
 ## I cannot download the tweets, what can I do?
 
