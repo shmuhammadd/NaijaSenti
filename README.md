@@ -58,7 +58,6 @@ Sentiment analysis is one of the most widely studied applications in NLP, but mo
 
 ## Download NaijaSenti Datasets
 
-We released the following corpora:
 
 #### 1. [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/annotated_twitter_corpus.md)
 
