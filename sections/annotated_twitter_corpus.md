@@ -47,7 +47,6 @@ To crawl tweets you will need to have a set of keys and tokens to authenticate y
 
 ### Importing the twarc library and the Twarc2 and expansions classes
 
-You will first need to import the twarc library and Twarc2 client and the expansions class, in order to connect to the Twitter API v2 programmatically and get the response. You will also need the json library in order to save the response from the Twitter API in the JSON format
 
 
 ```python
@@ -63,6 +62,9 @@ import json
 
 # Replace your bearer token below
 client = Twarc2(bearer_token="XXXXX")
+
+#Once you have initialized the client, and imported the expansions class and the json library, you are ready to get Twitter data using the Twitter API v2.
+
 
 
 def main():
