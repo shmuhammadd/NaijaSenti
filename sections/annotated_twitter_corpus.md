@@ -45,9 +45,7 @@ To crawl tweets you will need to have a set of keys and tokens to authenticate y
 3. Navigate to your App's “Keys and tokens” page to generate the required credentials. Make sure to save all credentials in a secure location.
 
 
-### Importing the twarc library and the Twarc2 and expansions classes
-
-
+### Lookup Tweets using Tweet IDs
 
 ```python
 # This will import the Twarc2 client and expansions class from twarc library and also the json library
