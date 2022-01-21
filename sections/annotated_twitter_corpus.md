@@ -88,9 +88,10 @@ twarc2 csv tweets.jsonl tweets.csv
 
 Then you can load the CSV into a Pandas DataFrame:
 
+```python
 import pandas
 pandas.read_csv('tweets.csv')
-
+```
 ## Hydrate Tweets using Tweet IDs in R
 
 
