@@ -44,16 +44,16 @@ NaijaSenti is a [lacuna-funded](https://lacunafund.org) project for the developm
 
 ## Paper
 
-Read the NaijaSenti paper here
+Read the NaijaSenti paper here: [NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis](https://arxiv.org/abs/2201.08277)
 
 
 ## Abstract
 
-Sentiment analysis is one of the most widely studied applications in NLP, but most work focuses on languages with largeamounts of data. We introduce the first large-scale human-annotated Twitter sentiment dataset for the four most widely spokenlanguages in Nigeria—Hausa, Igbo, Nigerian-Pidgin, and Yorùbá—consisting of around 30,000 annotated tweets per language(except  for  Nigerian-Pidgin),  including  a  significant  fraction  of  code-mixed  tweets.  We  propose  text  collection,  filtering,processing  and  labeling  methods  that  enable  us  to  create  datasets  for  these  low-resource  languages.   We  evaluate  a  rangeof  pre-trained  models  and  transfer  strategies  on  the  dataset.   We  find  that  language-specific  models  and  language-adaptivefine-tuning  generally  perform  best.   We  release  the  datasets,  trained  models,  sentiment  lexicons,  and  code  to  incentivizeresearch on sentiment analysis in under-represented languages
+Sentiment analysis is one of the most widely studied applications in NLP, but most work focuses on languages with large amounts of data. We introduce the first large-scale human-annotated Twitter sentiment dataset for the four most widely spoken languages in Nigeria—Hausa, Igbo, Nigerian-Pidgin, and Yorùbá—consisting of around 30,000 annotated tweets per language (except for Nigerian-Pidgin), including a significant fraction of code-mixed tweets. We propose text collection, filtering, processing, and labelling methods that enable us to create datasets for these low-resource languages. We evaluate a range of pre-trained models and transfer strategies on the dataset. We find that language-specific models and language-adaptive fine-tuning generally perform best. We make the datasets, trained models, sentiment lexicons, and code available to encourage sentiment analysis research in under-represented languages.
 
-## Download NaijaSenti Dataset
+## Download NaijaSenti Datasets
 
-We released the following corpora to foster NLP research in these languages:
+We released the following corpora:
 
 #### 1. [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/annotated_twitter_corpus.md)
 
@@ -65,17 +65,31 @@ We released the following corpora to foster NLP research in these languages:
 
 #### 5. [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/blob/main/sections/unlabeled_twitter_corpus.md)
 
-
+## Model 
 
 ## Citation
 
 If you use this data in your work, please cite:
 
 
+```bibtex
+
+@misc{muhammad2022naijasenti,
+      title={NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis}, 
+      author={Shamsuddeen Hassan Muhammad and David Ifeoluwa Adelani and Ibrahim Said Ahmad and Idris Abdulmumin and Bello Shehu Bello and Monojit Choudhury and Chris Chinenye Emezue and Anuoluwapo Aremu and Saheed Abdul and Pavel Brazdil},
+      year={2022},
+      eprint={2201.08277},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+```
 
 ## Papers from this project 
 
-Papers that use NaijaSenti dataset:
+Please, let us know if you use NaijaSenti in your papers:
+
+1. 
 
 
 
