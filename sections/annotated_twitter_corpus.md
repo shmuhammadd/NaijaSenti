@@ -14,6 +14,7 @@ We manually annotated the Twitter sentiment corpus in four major Nigerian langua
 
 
 
+
 ## How to download the dataset?
 
 Twitter has a strong policy for public distribuition of user data. Below is an excerpt from [Twitter policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). 
@@ -31,12 +32,8 @@ So, we cannot not share the entire Tweet text directly. Instead, we can only sha
 Our corpus was built using Twitter API v2 which allow access to historical Tweets from the entire archive of public conversation on Twitter, dating back to 2006 (using the full-archive search endpoint). However, Twitter API v2 is for academic researchers and you can apply here:[academic research product track](https://developer.twitter.com/en/products/twitter-api/academic-research)
 
 
-## Python
+## Prerequisites
 
-We will be using the [twarc](https://github.com/DocNow/twarc) library in Python
-
-
-### Prerequisites
 To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens by following these steps:
 
 1. Sign up for a developer account and receive approval.
@@ -44,7 +41,10 @@ To crawl tweets you will need to have a set of keys and tokens to authenticate y
 3. Navigate to your App's “Keys and tokens” page to generate the required credentials. 
 
 
-### Hydrate Tweets using Tweet IDs in Python
+
+## Hydrate Tweets using Tweet IDs in Python
+
+We will be using the [twarc](https://github.com/DocNow/twarc) library in Python
 
 
 ```bash
@@ -70,20 +70,11 @@ twarc2 hydrate ids.txt tweets.jsonl
 919505982602039297
 ```
 
-## R
+
+## Hydrate Tweets using Tweet IDs in R
+
 
 For R users, you can use the [academicTwitteR](https://github.com/cjbarrie/academictwitteR) package in R. All the code can be found here. Install the academicTwitteR first:
-
-
-### Prerequisites
-To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens by following these steps:
-
-1. Sign up for a developer account and receive approval.
-2. Create a Project and an associated developer App in the developer portal.
-3. Navigate to your App's “Keys and tokens” page to generate the required credentials. Make sure to save all credentials in a secure location.
-
-
-### Hydrate Tweets using Tweet IDs in R
 
 
 ```R
