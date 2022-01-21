@@ -32,7 +32,7 @@ Our corpus was built using Twitter API v2 which allow access to historical Tweet
 
 ## Python
 
-We will be using the twarc library in Python
+We will be using the [twarc](https://github.com/DocNow/twarc) library in Python
 
 ```Bash
 pip3 install twarc
