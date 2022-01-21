@@ -78,6 +78,44 @@ if __name__ == "__main__":
 ```
 
 
+## R
+
+For R users, you can use the [academicTwitteR](https://github.com/cjbarrie/academictwitteR) package in R. All the example code used in these labs can be found here. Install the academicTwitteR first:
+
+
+```R
+install.packages("academicTwitteR")
+
+```
+
+### Prerequisites
+To crawl tweets you will need to have a set of keys and tokens to authenticate your request. You can generate these keys and tokens by following these steps:
+
+1. Sign up for a developer account and receive approval.
+2. Create a Project and an associated developer App in the developer portal.
+3. Navigate to your App's “Keys and tokens” page to generate the required credentials. Make sure to save all credentials in a secure location.
+
+
+```R
+# This will load the academicTwitteR package
+library(academictwitteR)
+
+# Set your own bearer token (replace the XXXXX with your own bearer token)
+bearer_token <- "XXXXX"
+
+
+hydrate_tweets(
+  ids = c("1266876474440761346", "1266868259925737474")
+  bearer_token = bearer_token,
+  data_path = "path",
+  bind_tweets = TRUE,
+  verbose = TRUE
+)
+
+```
+
+
+
 ## I cannot download the tweets, what can I do?
 
 Please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
