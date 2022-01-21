@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
 ## R
 
-For R users, you can use the [academicTwitteR](https://github.com/cjbarrie/academictwitteR) package in R. All the example code used in these labs can be found here. Install the academicTwitteR first:
+For R users, you can use the [academicTwitteR](https://github.com/cjbarrie/academictwitteR) package in R. All the code can be found here. Install the academicTwitteR first:
 
 
 ```R
