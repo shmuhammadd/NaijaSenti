@@ -73,9 +73,7 @@ if __name__ == "__main__":
 ```
 
 
-## I cannot download the dataset, what can I do?
+## I cannot download the tweets, what can I do?
 
-I can not download the tweets, or the running codes do not work, where do I go? You can send an e-mail for shamsuddeen2003@gmail.com and I will be happy to answer any questions and help anyway I can. :D
-
-
+Please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
 
