@@ -71,6 +71,9 @@ We released the following corpora:
 
 If you use this data in your work, please cite:
 
+
+```bibtex
+
 @misc{muhammad2022naijasenti,
       title={NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis}, 
       author={Shamsuddeen Hassan Muhammad and David Ifeoluwa Adelani and Ibrahim Said Ahmad and Idris Abdulmumin and Bello Shehu Bello and Monojit Choudhury and Chris Chinenye Emezue and Anuoluwapo Aremu and Saheed Abdul and Pavel Brazdil},
@@ -80,7 +83,7 @@ If you use this data in your work, please cite:
       primaryClass={cs.CL}
 }
 
-
+```
 
 ## Papers from this project 
 
