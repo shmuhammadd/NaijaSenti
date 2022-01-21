@@ -55,10 +55,7 @@ import json
 # This is where you initialize the client with your own bearer token (replace the XXXXX with your own bearer token)
 client = Twarc2(bearer_token="XXXXX")
 
-
 #Once you have initialized the client, and imported the expansions class and the json library, you are ready to get Twitter data using the Twitter API v2.
-
-
 
 def main():
     # List of Tweet IDs you want to lookup
