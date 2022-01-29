@@ -96,7 +96,7 @@ If you use this data in your work, please cite:
 
 ## Papers from this project 
 
-Please, let us know if you use NaijaSenti in your papers:
+Please, let us know if you use NaijaSenti in your papers. 
 
 1. 
 
