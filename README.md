@@ -73,6 +73,9 @@ Sentiment analysis is one of the most widely studied applications in NLP, but mo
 
 ## Model 
 
+
+Our model is available via Hugginface Model Hub [here](https://huggingface.co/Davlan/naija-twitter-sentiment-afriberta-large)
+
 ## Citation
 
 If you use this data in your work, please cite:
@@ -82,7 +85,7 @@ If you use this data in your work, please cite:
 
 @misc{muhammad2022naijasenti,
       title={NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis}, 
-      author={Shamsuddeen Hassan Muhammad and David Ifeoluwa Adelani and Ibrahim Said Ahmad and Idris Abdulmumin and Bello Shehu Bello and Monojit Choudhury and Chris Chinenye Emezue and Anuoluwapo Aremu and Saheed Abdul and Pavel Brazdil},
+      author={Shamsuddeen Hassan Muhammad, David Ifeoluwa Adelani, Sebastian Ruder, Ibrahim Said Ahmad, Idris Abdulmumin, Bello Shehu Bello, Monojit Choudhury, Chris Chinenye Emezue, Saheed Salahudeen Abdullahi, Anuoluwapo Aremu, Alipio Jeorge, Pavel Brazdil},
       year={2022},
       eprint={2201.08277},
       archivePrefix={arXiv},
@@ -93,7 +96,7 @@ If you use this data in your work, please cite:
 
 ## Papers from this project 
 
-Please, let us know if you use NaijaSenti in your papers:
+Please, let us know if you use NaijaSenti in your papers. 
 
 1. 
 
