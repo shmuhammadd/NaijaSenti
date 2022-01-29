@@ -68,7 +68,7 @@ Sentiment analysis is one of the most widely studied applications in NLP, but mo
 #### 4. [Semi-automatically Translated sentiment lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/translated_lexicon.md)
 
 #### 5. [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/blob/main/sections/unlabeled_twitter_corpus.md)
-#### 5. [Stop-words for Hausa, Igbo, Pidgin and Yoruba ](https://github.com/hausanlp/NaijaSenti/tree/main/data/stopwords)
+#### 6. [Stop-words for Hausa, Igbo, Pidgin and Yoruba ](https://github.com/hausanlp/NaijaSenti/tree/main/data/stopwords)
 
 
 ## Model 
