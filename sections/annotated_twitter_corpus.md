@@ -14,12 +14,12 @@ We manually annotated the dataset in four major Nigerian languages (Hausa, Igbo,
 
  
 
-| Languages |      #positive |      #negative| #neutral |  #code-mixedd  | #mono-lingual |  date |
-| --------- | -------- |  -------- | -------- |  ---------- | ---------- | ---------- |
-| Hausa  |    9,235    |  9,033  | 12,826  |  6,426  | 21,039   |  21,039   | 
-| Igbo  |  5,621  |  4,726 | 14,887  |  6,561  |  8,688  | 21,039   | 
+| Languages |      #positive |      #negative| #neutral |  #code-mixedd  | #mono-lingual |  
+| --------- | -------- |  -------- | -------- |  ---------- | ---------- | 
+| Hausa  |    9,235    |  9,033  | 12,826  |  6,426  | 21,039   |   
+| Igbo  |  5,621  |  4,726 | 14,887  |  6,561  |  8,688  | 
 | Pidgin  | 3,010  |  5,635  |  717 |  -  | -  |
-| Yoruba  | 9,839  |  5,003  | 14,356  |  4,457  | 18,622  |  21,039   | 
+| Yoruba  | 9,839  |  5,003  | 14,356  |  4,457  | 18,622  | 
 
 
 
