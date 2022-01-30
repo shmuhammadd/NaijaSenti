@@ -25,7 +25,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/hausanlp?label=follow&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/hausanlp?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.hausanlp)[<img src="https://img.shields.io/badge/chat-on slack-yellow.svg?logo=slack">](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA) 
-[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.github.io/) 
+[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.org/) 
 
 
 
