@@ -26,7 +26,7 @@ Twitter has a strong policy for public distribuition of user data. Below is an e
 
 > The best place to get Twitter Content is directly from Twitter. Consequently, we restrict the redistribution of Twitter Content to third parties.  If you provide Twitter Content to third parties, including downloadable datasets or via an API, you may only distribute Tweet IDs, Direct Message IDs, and/or User IDs (except as described below). We also grant special permissions to academic researchers sharing Tweet IDs and User IDs for non-commercial research purposes.
 
-As a result, we are unable to directly share the entire Tweet text. Instead, we realese the dataset with only tweet ids. The dataset has the format below and can be downloaded here [Annotated Dataset for all languages](https://github.com/hausanlp/NaijaSenti/tree/main/data/Unlabled_Twitter_Corpus).
+As a result, we are unable to directly share the entire Tweet text. Instead, we realese the dataset with only tweet and can be downloaded here [Unannotated Twitter Corpus for all languages](https://github.com/hausanlp/NaijaSenti/tree/main/data/Unlabled_Twitter_Corpus).
 
 We provide python and R code below to allow hydrating all the tweets in our dataset using Valid Twitter API credential. Please, if you have any trouble, please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
 
