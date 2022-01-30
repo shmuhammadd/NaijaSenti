@@ -1,26 +1,18 @@
+# Unlableed Twitter Corpus
+
+ We released the first [large-scale uannannotated Twitter corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for the four languages. This corpus can be use for any other Natural Language Processing downstream tasks. We will keep this corpus live by updating the number of the tweets once a month. 
 
 
-
-# Manually Annotated Twitter Sentiment corpus
-
-
-<div align="justify">
- 
+ # Manually Annotated Twitter Sentiment corpus
 
 
-We manually annotated the dataset in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin, and Yoruba) by three annotators. Below is the information about the dataset in each languages (#positive tweets, #negativc tweets, #neutral tweets). We also manually annotated the dataset and classified the tweets if they were code-mixed (e.g., a mix of Hausa and English or Hausa and Yoruba) or monolingual.
-  
-<div>
+ <div align="justify">
 
- 
-
-| Languages |      #positive |      #negative| #neutral |  #code-mixedd  | #mono-lingual |  
-| --------- | -------- |  -------- | -------- |  ---------- | ---------- | 
-| Hausa  |    9,235    |  9,033  | 12,826  |  6,426  | 21,039   |   
-| Igbo  |  5,621  |  4,726 | 14,887  |  6,561  |  8,688  | 
-| Pidgin  | 3,010  |  5,635  |  717 |  -  | -  |
-| Yoruba  | 9,839  |  5,003  | 14,356  |  4,457  | 18,622  | 
-
+ | Languages | #positive | #negative| #negative| 
+ | --------- | -------- |  -------- | -------- |
+ | Hausa  | Content Cell  |  Content Cell  | -------- |
+ | Igbo  | Content Cell  |  Content Cell  |-------- |
+ | Yoruba  | Content Cell  |  Content Cell  | -------- |
 
 
 
