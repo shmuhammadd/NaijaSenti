@@ -1,6 +1,6 @@
 # Unlableed Twitter Corpus
 
- We released the first [large-scale uannannotated Twitter corpus](https://github.com/hausanlp/NaijaSenti/tree/main/data/Unlabled_Twitter_Corpus) for the four languages. This corpus can be use for any other Natural Language Processing downstream tasks. We will keep this corpus live by updating the number of the tweets once a month. 
+ We released the first [large-scale uannannotated Twitter corpus](https://github.com/hausanlp/NaijaSenti/tree/main/data/Unlabled_Twitter_Corpus) for the four Nigerian languages (Hausa, Igbo, Nigerian-Pidgin and Yoruba). This corpus can be use for any other Natural Language Processing downstream tasks. We will keep this corpus live by updating the number of the tweets once a month. 
 
 
 
