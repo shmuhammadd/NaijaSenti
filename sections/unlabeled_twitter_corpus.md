@@ -1,15 +1,25 @@
-# Unlableed Twitter Corpus
 
-We released the first [large-scale uannannotated Twitter corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for the four languages. This corpus can be use for any other Natural Language Processing downstream tasks. We will keep this corpus live by updating the number of the tweets once a month. 
+
+
+# Manually Annotated Twitter Sentiment corpus
+
+
+<div align="justify">
  
-| Languages | #positive | #negative| #negative| 
-| --------- | -------- |  -------- | -------- |
-| Hausa  | Content Cell  |  Content Cell  | -------- |
-| Igbo  | Content Cell  |  Content Cell  |-------- |
-| Yoruba  | Content Cell  |  Content Cell  | -------- |
 
 
+We manually annotated the dataset in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin, and Yoruba) by three annotators. Below is the information about the dataset in each languages (#positive tweets, #negativc tweets, #neutral tweets). We also manually annotated the dataset and classified the tweets if they were code-mixed (e.g., a mix of Hausa and English or Hausa and Yoruba) or monolingual.
+  
+<div>
 
+ 
+
+| Languages |      #positive |      #negative| #neutral |  #code-mixedd  | #mono-lingual |  
+| --------- | -------- |  -------- | -------- |  ---------- | ---------- | 
+| Hausa  |    9,235    |  9,033  | 12,826  |  6,426  | 21,039   |   
+| Igbo  |  5,621  |  4,726 | 14,887  |  6,561  |  8,688  | 
+| Pidgin  | 3,010  |  5,635  |  717 |  -  | -  |
+| Yoruba  | 9,839  |  5,003  | 14,356  |  4,457  | 18,622  | 
 
 
 
@@ -21,9 +31,19 @@ Twitter has a strong policy for public distribuition of user data. Below is an e
 
 > The best place to get Twitter Content is directly from Twitter. Consequently, we restrict the redistribution of Twitter Content to third parties.  If you provide Twitter Content to third parties, including downloadable datasets or via an API, you may only distribute Tweet IDs, Direct Message IDs, and/or User IDs (except as described below). We also grant special permissions to academic researchers sharing Tweet IDs and User IDs for non-commercial research purposes.
 
+As a result, we are unable to directly share the entire Tweet text. Instead, we realese the dataset with the following metadata for each language: tweet ids, the annotation labels for the three annotators, the agreed sentiment label, and the tweet class (monolingual or code-mixed). The dataset has the format below and can be downloaded here [Annotated Dataset for all languages](https://github.com/hausanlp/NaijaSenti/tree/main/data/annotated_twitter_corpus).
 
-So, we cannot not share the entire Tweet text directly. Instead, we can only share a list of Tweet IDs. Researchers can then use the Twitter API to hydrate and get the full Tweet objects from the Tweet IDs. We provide python and R code to allow hydrating all the tweets in our dataset. If you have any trouble, please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
 
+
+ tweetIDs | Annotator1 | Annotator2 | Annotator3| Sentiment | class |  date | 
+--- | --- | --- |--- |--- |--- | --- |
+ 1329755580903415808 | negative | negative | negative | negative | code-mixed | code-mixed |
+ 1387857032523489280 | negative | negative | neutral | negative | code-mixed | code-mixed |
+ 1177449493844787200 | positive | positive | positive | positive | monolingual | code-mixed |
+ 1082503529007403008 | neutral | neutral | positive | neutral | monolingual | code-mixed |
+
+
+We provide python and R code below to allow hydrating all the tweets in our dataset using Valid Twitter API credential. Please, if you have any trouble, please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
 
 
 ## Hydrating Tweets using Tweets IDs. 
