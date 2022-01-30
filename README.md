@@ -17,7 +17,8 @@
  
 </p>
 
-![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)
+<img align="center" width="33%" src="![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)">
+
 ![GitHub](https://img.shields.io/badge/license-CCBY-yellow)
 
 --------------------------------------------------------------------------------
