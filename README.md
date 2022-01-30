@@ -45,7 +45,7 @@
 ## Paper and Datasheet for Dataset
 
 - Read the `NaijaSenti` paper here 
-- Read `NaijaSenti Datasheet` here (coming sooon) 
+- Read the `NaijaSenti Datasheet` here (coming sooon) 
 
 
 ## Abstract
