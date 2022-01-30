@@ -36,7 +36,7 @@ As a result, we are unable to directly share the entire Tweet text. Instead, we 
 
 
  tweetIDs | Annotator1 | Annotator2 | Annotator3| Sentiment | class |  date | 
---- | --- | --- |--- |--- |--- |
+--- | --- | --- |--- |--- |--- | --- |
  1329755580903415808 | negative | negative | negative | negative | code-mixed | code-mixed |
  1387857032523489280 | negative | negative | neutral | negative | code-mixed | code-mixed |
  1177449493844787200 | positive | positive | positive | positive | monolingual | code-mixed |
