@@ -16,8 +16,7 @@ We released the first [large-scale uannannotated Twitter corpus](https://github.
  | Yoruba  | Content Cell  |  
  
  
-
-
+[DOWNLOAD ME](https://github.com/hausanlp/NaijaSenti/tree/main/data/Unlabled_Twitter_Corpus)
 
 # How to download the dataset?
 
