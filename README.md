@@ -109,5 +109,5 @@ If you want to report a problem or suggest an enhancement we'd love for you to [
 
 ## License
 
-The dataset is licenced under CC-BY-SA, see the LICENSE file for details.
+The dataset is licenced under CC-BY-4.0, see the LICENSE file for details.
 
