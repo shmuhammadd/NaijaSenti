@@ -15,14 +15,13 @@
 <p align="center">
 <img src="/image/naijasenti_logo1.png" width="500">
  
-</p>
-
-<img align="center" width="33%" src="![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)">
-
-![GitHub](https://img.shields.io/badge/license-CCBY-yellow)
 
 --------------------------------------------------------------------------------
 
+
+
+![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)"
+![GitHub](https://img.shields.io/badge/license-CCBY-yellow)
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hausanlp?label=follow&style=social)
