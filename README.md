@@ -42,9 +42,10 @@
   - [Contact us](#contact-us)
 
 
-## Paper
+## Paper and Datasheet for Dataset
 
-Read the `NaijaSenti` paper here: 
+- Read the `NaijaSenti` paper here 
+- Read NaijaSenti Datasheet for here(coming sooon) 
 
 
 ## Abstract
