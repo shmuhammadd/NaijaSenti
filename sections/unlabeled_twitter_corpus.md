@@ -22,17 +22,7 @@ Twitter has a strong policy for public distribuition of user data. Below is an e
 
 > The best place to get Twitter Content is directly from Twitter. Consequently, we restrict the redistribution of Twitter Content to third parties.  If you provide Twitter Content to third parties, including downloadable datasets or via an API, you may only distribute Tweet IDs, Direct Message IDs, and/or User IDs (except as described below). We also grant special permissions to academic researchers sharing Tweet IDs and User IDs for non-commercial research purposes.
 
-As a result, we are unable to directly share the entire Tweet text. Instead, we realese the dataset with the following metadata for each language: tweet ids, the annotation labels for the three annotators, the agreed sentiment label, and the tweet class (monolingual or code-mixed). The dataset has the format below and can be downloaded here [Annotated Dataset for all languages](https://github.com/hausanlp/NaijaSenti/tree/main/data/annotated_twitter_corpus).
-
-
-
- tweetIDs | Annotator1 | Annotator2 | Annotator3| Sentiment | class |  date | 
---- | --- | --- |--- |--- |--- | --- |
- 1329755580903415808 | negative | negative | negative | negative | code-mixed | code-mixed |
- 1387857032523489280 | negative | negative | neutral | negative | code-mixed | code-mixed |
- 1177449493844787200 | positive | positive | positive | positive | monolingual | code-mixed |
- 1082503529007403008 | neutral | neutral | positive | neutral | monolingual | code-mixed |
-
+As a result, we are unable to directly share the entire Tweet text. Instead, we realese the dataset with only tweet ids. The dataset has the format below and can be downloaded here [Annotated Dataset for all languages](https://github.com/hausanlp/NaijaSenti/tree/main/data/unannotated_twitter_corpus).
 
 We provide python and R code below to allow hydrating all the tweets in our dataset using Valid Twitter API credential. Please, if you have any trouble, please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
 
