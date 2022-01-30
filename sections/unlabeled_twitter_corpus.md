@@ -5,11 +5,11 @@
 
 
 
- | Languages | #positive | #negative| #negative| 
- | --------- | -------- |  -------- | -------- |
- | Hausa  | Content Cell  |  Content Cell  | -------- |
- | Igbo  | Content Cell  |  Content Cell  |-------- |
- | Yoruba  | Content Cell  |  Content Cell  | -------- |
+ | Languages | #tweets |
+ | --------- | -------- | 
+ | Hausa  | Content Cell  |  
+ | Igbo  | Content Cell  |  
+ | Yoruba  | Content Cell  |  
  
  
 
