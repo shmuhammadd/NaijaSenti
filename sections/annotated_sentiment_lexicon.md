@@ -10,3 +10,6 @@ We selected tweets that we first manually classified as [negative and positive](
 | Hausa  | 1,214  |   1,000	  | 
 | Igbo  |  904 |  1,180 | 
 | Yoruba  | 2,228  |  2,185  | 
+
+
+[DOWNLOAD ME](https://github.com/hausanlp/NaijaSenti/tree/main/data/annotated_sentiment_lexicon)
