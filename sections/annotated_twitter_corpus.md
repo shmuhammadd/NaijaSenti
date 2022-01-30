@@ -23,12 +23,12 @@ Twitter has a strong policy for public distribuition of user data. Below is an e
 > The best place to get Twitter Content is directly from Twitter. Consequently, we restrict the redistribution of Twitter Content to third parties.  If you provide Twitter Content to third parties, including downloadable datasets or via an API, you may only distribute Tweet IDs, Direct Message IDs, and/or User IDs (except as described below). We also grant special permissions to academic researchers sharing Tweet IDs and User IDs for non-commercial research purposes.
 
 
-So, we cannot not share the entire Tweet text directly. Instead, we provide the dataset Twitter ids, the annotation labels, and general sentiment, and the tweet class (monolingual or code-mixed). The dataset has the following formats
+So, we cannot not share the entire Tweet text directly. Instead, we provide the dataset Twitter ids, the annotation labels for the three annotators, and Agreed sentiment Label, and the tweet class (monolingual or code-mixed). The dataset has the following formats
 
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Attempt | tweetIDs | Annotator1 | Annotator2 | Annotator3| AgreedLabel | class | 
+--- | --- | --- | --- |--- |--- |--- |
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 |
 
 
 
