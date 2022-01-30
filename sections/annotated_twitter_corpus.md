@@ -31,7 +31,7 @@ Twitter has a strong policy for public distribuition of user data. Below is an e
 
 > The best place to get Twitter Content is directly from Twitter. Consequently, we restrict the redistribution of Twitter Content to third parties.  If you provide Twitter Content to third parties, including downloadable datasets or via an API, you may only distribute Tweet IDs, Direct Message IDs, and/or User IDs (except as described below). We also grant special permissions to academic researchers sharing Tweet IDs and User IDs for non-commercial research purposes.
 
-As a result, we are unable to directly share the entire Tweet text. Instead, we realese the dataset with the following metadata for each language: tweet ids, the annotation labels for the three annotators, the agreed sentiment label, and the tweet class (monolingual or code-mixed). The dataset has the format below and can be downloaded here [Annotated Dataset for all languages](https://github.com/hausanlp/NaijaSenti/tree/main/data/annotated_twitter_corpus).Cancel changes
+As a result, we are unable to directly share the entire Tweet text. Instead, we realese the dataset with the following metadata for each language: tweet ids, the annotation labels for the three annotators, the agreed sentiment label, and the tweet class (monolingual or code-mixed). The dataset has the format below and can be downloaded here [Annotated Dataset for all languages](https://github.com/hausanlp/NaijaSenti/tree/main/data/annotated_twitter_corpus).
 
 
 
