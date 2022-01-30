@@ -35,12 +35,12 @@ As a result, we are unable to directly share the entire Tweet text. Instead, we 
 
 
 
- tweetIDs | Annotator1 | Annotator2 | Annotator3| Sentiment | class | 
+ tweetIDs | Annotator1 | Annotator2 | Annotator3| Sentiment | class |  date | 
 --- | --- | --- |--- |--- |--- |
- 1329755580903415808 | negative | negative | negative | negative | code-mixed |
- 1387857032523489280 | negative | negative | neutral | negative | code-mixed |
- 1177449493844787200 | positive | positive | positive | positive | monolingual |
- 1082503529007403008 | neutral | neutral | positive | neutral | monolingual |
+ 1329755580903415808 | negative | negative | negative | negative | code-mixed | code-mixed |
+ 1387857032523489280 | negative | negative | neutral | negative | code-mixed | code-mixed |
+ 1177449493844787200 | positive | positive | positive | positive | monolingual | code-mixed |
+ 1082503529007403008 | neutral | neutral | positive | neutral | monolingual | code-mixed |
 
 
 We provide python and R code below to allow hydrating all the tweets in our dataset using Valid Twitter API credential. Please, if you have any trouble, please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
