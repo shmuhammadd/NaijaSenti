@@ -1,6 +1,6 @@
 # Semi-automatic translated emotion lexicon
 
-We translated #9,714 [NRC Word-Emotion](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) in to three languages (Hausa, Igbo, and Yoruba). We used Google Translate API for translation. The transslation was verified and corrected by expert translators. Each word is associated with entries from eight basic emotions (anger, anticipation, disgust, fear, joy, sadness, surprise, trust) 
+We translated #9,714 [NRC Word-Emotion lexicon](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) in to three languages (Hausa, Igbo, and Yoruba). We used Google Translate API for translation. The transslation was verified and corrected by expert translators. Each word is associated with entries from eight basic emotions (anger, anticipation, disgust, fear, joy, sadness, surprise, trust) 
 
 
 | Languages | #anger | #anticipation| #disgust | #fear | #joy | #sadness| #surprise | #trust |  
