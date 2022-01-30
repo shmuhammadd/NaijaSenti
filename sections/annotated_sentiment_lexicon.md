@@ -7,7 +7,6 @@ We provide [sentiment lexicon](https://github.com/hausanlp/NaijaSenti/tree/main/
 
 
 
-The lexicon 
 | Languages | #positive | #negative| 
 | --------- | -------- |  -------- | 
 | Hausa  | 1,214  |   1,000	  | 
