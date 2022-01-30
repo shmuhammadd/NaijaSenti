@@ -9,11 +9,8 @@
 
 
 We manually annotated the dataset in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin, and Yoruba). Below is the information about the dataset in each languages (#positive tweets, #negativc tweets, #neutral tweets). We also manually annotated the dataset and classified the tweets if they were code-mixed (e.g., a mix of Hausa and English or Hausa and Yoruba) or monolingual.
- 
-
- 
-
-<\div>
+  
+<div>
 
  
 
