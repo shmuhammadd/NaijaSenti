@@ -20,7 +20,7 @@
 
 
 
-![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)"
+![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)
 ![GitHub](https://img.shields.io/badge/license-CCBY-yellow)
 
 
