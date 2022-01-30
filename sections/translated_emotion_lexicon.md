@@ -8,3 +8,9 @@ We translated #9,714 [NRC Word-Emotion lexicon](https://saifmohammad.com/WebPage
 | Hausa  | 1,478  |   860  |  1,086  |   1,755  |  1,257  |   1,288  | 582  |  1,551  | 
 | Igbo  | 1,465  |  858  | 1,087	   |  1,740  |  1,232  |   1283  | 575  |  1,474  | 
 | Yoruba  |  1,480  |   862  |  1,091	  |  1,760  |  1,260  |  1,292  |  583  |  1,560  | 
+
+
+[DOWNLOAD ME](https://github.com/hausanlp/NaijaSenti/tree/main/data/translated_emotion_lexicon)
+
+
+
