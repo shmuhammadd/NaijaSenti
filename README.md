@@ -104,7 +104,7 @@ Please, let us know if you use NaijaSenti in your papers.
 
 ## Contact us
 
-If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact us by email (hausanlp AT gmail DOT com) or on [twitter](https://twitter.com/hausanlp).
+If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact us by email (shamsuddeen2004 AT gmail DOT com).
 
 
 ## Changelog
