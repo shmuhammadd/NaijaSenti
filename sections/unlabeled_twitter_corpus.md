@@ -11,9 +11,13 @@ We released the first [large-scale uannannotated Twitter corpus](https://github.
 
  | Languages | #tweets |
  | --------- | -------- | 
- | Hausa  | Content Cell  |  
- | Igbo  | Content Cell  |  
- | Yoruba  | Content Cell  |  
+ | Hausa  | 516,523   |  
+ | Igbo  | 38,017  |  
+ | Yoruba  |  49,213  | 
+ | Pidgin  | 119,056 | 
+
+  
+  
  
  
 [DOWNLOAD ME](https://github.com/hausanlp/NaijaSenti/tree/main/data/Unlabled_Twitter_Corpus)
