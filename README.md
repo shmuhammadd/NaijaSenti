@@ -39,8 +39,8 @@
 
 ## Paper and Datasheet for Dataset
 
-- Read the `NaijaSenti` paper here 
-- Read the `NaijaSenti Datasheet` here 
+- Read the `NaijaSenti` paper: [NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis](https://arxiv.org/abs/2201.08277)
+- Read the `NaijaSenti Datasheet` coming soon... 
 
 
 ## Abstract
