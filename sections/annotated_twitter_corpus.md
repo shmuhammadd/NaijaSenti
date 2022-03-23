@@ -3,10 +3,12 @@
 
 # Manually Annotated Twitter Sentiment corpus
 
+<span style="color:blue">NOTE: We are doing some update, and we will re-upload it soon !!! *blue* text</span>.
+
 
 <div align="justify">
  
-NOTE: We are doing some update, and we will re-upload it soon !!!
+
 
 We manually annotated the dataset in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin, and Yoruba) by three annotators. Below is the information about the dataset in each languages (#positive tweets, #negativc tweets, #neutral tweets). We also manually annotated the dataset and classified the tweets if they were code-mixed (e.g., a mix of Hausa and English or Hausa and Yoruba) or monolingual.
   
