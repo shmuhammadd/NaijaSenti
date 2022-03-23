@@ -3,8 +3,8 @@
 
 # Manually Annotated Twitter Sentiment corpus
 
-<span style="color:blue">NOTE: We are doing some update, and we will re-upload it soon !!! *blue* text</span>.
 
+NOTE: We are doing some update, and we will re-upload it soon !!!
 
 <div align="justify">
  
