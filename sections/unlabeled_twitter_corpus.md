@@ -22,7 +22,7 @@ We released the first [large-scale uannannotated Twitter corpus](https://github.
   
  
  
-[DOWNLOAD ME](https://github.com/hausanlp/NaijaSenti/tree/main/data/Unlabled_Twitter_Corpus)
+[DOWNLOAD ME](https://github.com/hausanlp/NaijaSenti/tree/main/data/unlabled_Twitter_corpus)
 
 # How to download the dataset?
 
