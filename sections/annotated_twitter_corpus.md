@@ -3,8 +3,9 @@
 
 # Manually Annotated Twitter Sentiment corpus
 
-<p style='color:red'> Note: If you cannot access the dataset, I would be super happy to help. Please, send me an email : shamsuddeen2004@gmail.com
-.</p>
+```diff
+@@ Note: If you cannot access the dataset, I would be super happy to help. Please, send me an email : shamsuddeen2004@gmail.com @@
+```
 
 
 We provide the dataset used in our NaijaSenti paper. We will host Zindi compeitition soon on sentiment classification for Nigerian languages. Therefore, only training and validation set are released [train_eval_split](https://github.com/hausanlp/NaijaSenti/tree/main/data/train_eval).
