@@ -3,7 +3,7 @@
 
 # Manually Annotated Twitter Sentiment corpus
 
-We provide the dataset used in our NaijaSenti paper. However, . We will host Zindi compeitition soon on sentiment classification for Nigerian languages. Therefore, only training and validation set are released [train_eval_split](https://github.com/hausanlp/NaijaSenti/tree/main/data/train_eval_split).
+We provide the dataset used in our NaijaSenti paper. We will host Zindi compeitition soon on sentiment classification for Nigerian languages. Therefore, only training and validation set are released [train_eval_split](https://github.com/hausanlp/NaijaSenti/tree/main/data/train_eval_split).
 
 
 # How to download the dataset?
