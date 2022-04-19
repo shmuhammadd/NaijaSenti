@@ -1,5 +1,6 @@
 # Semi-aumatic translation of sentiment lexicon
 
+NOTE: We are doing some update, and we will re-upload it soon !!!
 
 
 We translated [Affin lexicon](http://www2.imm.dtu.dk/pubdb/pubs/6010-full.html) and [Bin Lui lexicon](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon) in to three languages (Hausa, Igbo, and Yoruba). We used Google Translate API for translation. The transslation was verified and corrected by expert translators. 

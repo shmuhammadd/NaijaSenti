@@ -4,6 +4,9 @@
 # Manually Annotated Twitter Sentiment corpus
 
 
+NOTE: We are doing some update, and we will re-upload it soon !!!
+
+
 <div align="justify">
  
 
