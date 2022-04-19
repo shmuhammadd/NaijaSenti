@@ -4,7 +4,7 @@
 # Manually Annotated Twitter Sentiment corpus
 
 ```diff
-Note: If you cannot access the dataset, I would be super happy to help. Please, send me an email : shamsuddeen2004@gmail.com
+@@Note: If you cannot access the dataset, I would be super happy to help. Please, send me an email : shamsuddeen2004@gmail.com@@
 ```
 
 
