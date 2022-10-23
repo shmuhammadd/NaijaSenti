@@ -3,28 +3,35 @@
 
 # Manually Annotated Twitter Sentiment corpus
 
-We manually annotated the Twitter sentiment corpus in four major Nigerian languages (Hausa, Igbo, Nigerian-Pidgin, and Yoruba). We realese the dataset with the following metadata for each language: the number of positive, negative, and neutral classes. We also manually annotated the dataset and classified the tweets if they were code-mixed (e.g., a mix of Hausa and English or Hausa and Yoruba) or monolingual.
-
-| Languages |      #positive |      #negative| #neutral |  #code-mixedd  | #mono-lingual | 
-| --------- | -------- |  -------- | -------- |  ---------- | ---------- |
-| Hausa  |    9,235    |  9,033  | 12,826  |  6,426  | 21,039   | 
-| Igbo  |  5,621  |  4,726 | 14,887  |  6,561  |  8,688  |
-| Pidgin  | 3,010  |  5,635  |  717 |  -  | -  |
-| Yoruba  | 9,839  |  5,003  | 14,356  |  4,457  | 18,622  | 
+```diff
+@@ If you cannot access the dataset, I would be super happy to help. Email me @: shamsuddeen2004@gmail.com @@
+```
 
 
+We provide the dataset used in our NaijaSenti paper. We will host Zindi compeitition soon on sentiment classification for Nigerian languages. Therefore, only training and validation set are released [train_eval_split](https://github.com/hausanlp/NaijaSenti/tree/main/data/train_eval).
 
 
 # How to download the dataset?
+
 
 Twitter has a strong policy for public distribuition of user data. Below is an excerpt from [Twitter policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). 
 
 
 > The best place to get Twitter Content is directly from Twitter. Consequently, we restrict the redistribution of Twitter Content to third parties.  If you provide Twitter Content to third parties, including downloadable datasets or via an API, you may only distribute Tweet IDs, Direct Message IDs, and/or User IDs (except as described below). We also grant special permissions to academic researchers sharing Tweet IDs and User IDs for non-commercial research purposes.
 
+As a result, we are unable to directly share the entire Tweet text. Instead, we realese the dataset with the following metadata for each language: tweet ids and the annotation labels. Below is an example of the dataset.
 
-So, we cannot not share the entire Tweet text directly. Instead, we can only share a list of Tweet IDs. Researchers can then use the Twitter API to hydrate and get the full Tweet objects from the Tweet IDs. We provide python and R code to allow hydrating all the tweets in our dataset. If you have any trouble, please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
 
+
+ tweetIDs | label | 
+--- | --- |
+ 1329755580903415808 | negative |
+ 1387857032523489280 | negative | 
+ 1177449493844787200 | positive | 
+ 1082503529007403008 | neutral | 
+
+
+We provide python and R code below to allow hydrating all the tweets in our dataset using Valid Twitter API credential. Please, if you have any trouble, please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
 
 
 ## Hydrating Tweets using Tweets IDs. 

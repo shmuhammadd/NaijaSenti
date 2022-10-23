@@ -1,18 +1,28 @@
 # Unlableed Twitter Corpus
 
-We released the first [large-scale uannannotated Twitter corpus](https://github.com/hausanlp/sentiNaija/tree/main/TwitterGeneralCorpus) for the four languages. This corpus can be use for any other Natural Language Processing downstream tasks. We will keep this corpus live by updating the number of the tweets once a month. 
+NOTE: We are doing some update, and we will re-upload it soon !!!
+
+<div align="justify">
+
+We released the first [large-scale uannannotated Twitter corpus](https://github.com/hausanlp/NaijaSenti/tree/main/data/Unlabled_Twitter_Corpus) for the four Nigerian languages (Hausa, Igbo, Nigerian-Pidgin and Yoruba). This corpus can be used for other natural language processing downstream tasks. We will keep this corpus live by updating the number of tweets once a month. For the first release, the table below shows the number of tweets for each language.
+
+ <div>
+
+
  
-| Languages | #positive | #negative| #negative| 
-| --------- | -------- |  -------- | -------- |
-| Hausa  | Content Cell  |  Content Cell  | -------- |
-| Igbo  | Content Cell  |  Content Cell  |-------- |
-| Yoruba  | Content Cell  |  Content Cell  | -------- |
 
+ | Languages | #tweets |
+ | --------- | -------- | 
+ | Hausa  | 516,523   |  
+ | Igbo  | 38,017  |  
+ | Yoruba  |  49,213  | 
+ | Pidgin  | 119,056 | 
 
-
-
-
-
+  
+  
+ 
+ 
+[DOWNLOAD ME](https://github.com/hausanlp/NaijaSenti/tree/main/data/unlabled_Twitter_corpus)
 
 # How to download the dataset?
 
@@ -21,9 +31,9 @@ Twitter has a strong policy for public distribuition of user data. Below is an e
 
 > The best place to get Twitter Content is directly from Twitter. Consequently, we restrict the redistribution of Twitter Content to third parties.  If you provide Twitter Content to third parties, including downloadable datasets or via an API, you may only distribute Tweet IDs, Direct Message IDs, and/or User IDs (except as described below). We also grant special permissions to academic researchers sharing Tweet IDs and User IDs for non-commercial research purposes.
 
+As a result, we are unable to directly share the entire Tweet text. Instead, we realese the dataset with only tweet and can be downloaded here [Unannotated Twitter Corpus for all languages](https://github.com/hausanlp/NaijaSenti/tree/main/data/Unlabled_Twitter_Corpus).
 
-So, we cannot not share the entire Tweet text directly. Instead, we can only share a list of Tweet IDs. Researchers can then use the Twitter API to hydrate and get the full Tweet objects from the Tweet IDs. We provide python and R code to allow hydrating all the tweets in our dataset. If you have any trouble, please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
-
+We provide python and R code below to allow hydrating all the tweets in our dataset using Valid Twitter API credential. Please, if you have any trouble, please send an email to shamsuddeen2004@gmail.com and I will gladly assist you in obtaining the dataset.
 
 
 ## Hydrating Tweets using Tweets IDs. 

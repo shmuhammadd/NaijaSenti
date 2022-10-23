@@ -14,23 +14,28 @@
 
 <p align="center">
 <img src="/image/naijasenti_logo1.png" width="500">
-</p>
+ 
 
 --------------------------------------------------------------------------------
-<!-- 
-![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)
-![GitHub](https://img.shields.io/badge/license-CCBY-yellow)
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/hausanlp?label=follow&style=social)
-![GitHub followers](https://img.shields.io/github/followers/hausanlp?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.hausanlp)[<img src="https://img.shields.io/badge/chat-on slack-yellow.svg?logo=slack">](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA) 
-[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.github.io/) 
-️-->
+
+![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.NaijaSenti)[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.org/) 
+
 
 
 
 `NaijaSenti` is an open-source sentiment and emotion corpora for four major Nigerian languages. This project was supported by [lacuna-fund](https://lacunafund.org) initiatives.  Jump straight to one of the sections below, or just scroll down to find out more.
+
+## Update (05/09/2022): We are running a SemEval competition and we release more sentiment dataset from African languages including NaiJaSenti Dataset. Visit the AfriSenti SemEval page for more information : [AfriSenti-SemEval Task 12](https://afrisenti-semeval.github.io)
+
+## Update (05/09/2022): Send me email (shamsuddeen2004@gmail.com) if you need NaijaSenti Dataset. We can send you anonymized dataset.
+  
+ anonomize 
+
+
+Table of Contents
+
 
 
 ## Table of Contents
@@ -42,9 +47,10 @@
   - [Contact us](#contact-us)
 
 
-## Paper
+## Paper and Datasheet for Dataset
 
-Read the `NaijaSenti` paper here: 
+- Read the `NaijaSenti` paper: [NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis](https://arxiv.org/abs/2201.08277)
+- Read the `NaijaSenti Datasheet` coming soon... 
 
 
 ## Abstract
@@ -68,7 +74,7 @@ Sentiment analysis is one of the most widely studied applications in NLP, but mo
 #### 4. [Semi-automatically Translated sentiment lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/translated_lexicon.md)
 
 #### 5. [Large Scale Unlabled Twitter Sentiment Corpus](https://github.com/hausanlp/NaijaSenti/blob/main/sections/unlabeled_twitter_corpus.md)
-#### 5. [Stop-words for Hausa, Igbo, Pidgin and Yoruba ](https://github.com/hausanlp/NaijaSenti/tree/main/data/stopwords)
+#### 6. [Stop-words for Hausa, Igbo, Pidgin and Yoruba ](https://github.com/hausanlp/NaijaSenti/tree/main/data/stopwords)
 
 
 ## Model 
@@ -85,7 +91,7 @@ If you use this data in your work, please cite:
 
 @misc{muhammad2022naijasenti,
       title={NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis}, 
-      author={Shamsuddeen Hassan Muhammad, David Ifeoluwa Adelani, Sebastian Ruder, Ibrahim Said Ahmad, Idris Abdulmumin, Bello Shehu Bello, Monojit Choudhury, Chris Chinenye Emezue, Saheed Salahudeen Abdullahi, Anuoluwapo Aremu, Alipio Jeorge, Pavel Brazdil},
+      author={Shamsuddeen Hassan Muhammad and David Ifeoluwa Adelani and Sebastian Ruder and Ibrahim Said Ahmad and Idris Abdulmumin and Bello Shehu Bello and Monojit Choudhury and Chris Chinenye Emezue and Saheed Salahudeen Abdullahi and Anuoluwapo Aremu and Alipio Jeorge and Pavel Brazdil},
       year={2022},
       eprint={2201.08277},
       archivePrefix={arXiv},
@@ -113,5 +119,14 @@ If you want to report a problem or suggest an enhancement we'd love for you to [
 
 ## License
 
-The dataset is licenced under CC-BY-SA, see the LICENSE file for details.
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
