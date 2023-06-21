@@ -23,7 +23,9 @@
 ![GitHub](https://img.shields.io/github/license/hausaNLP/HausaNLP)![GitHub](https://img.shields.io/badge/license-CCBY-yellow)![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.NaijaSenti)[<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.org/) 
 
 
+# Note:
 
+This repo is moved to: https://github.com/hausanlp/NaijaSenti. NaijaSenti dataset can also be found on HugginFace: https://huggingface.co/datasets/HausaNLP/NaijaSenti-Twitter
 
 `NaijaSenti` is an open-source sentiment and emotion corpora for four major Nigerian languages. This project was supported by [lacuna-fund](https://lacunafund.org) initiatives.  Jump straight to one of the sections below, or just scroll down to find out more.
 
